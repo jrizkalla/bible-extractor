@@ -1,0 +1,8 @@
+
+# general files
+**/*.sw[op]
+**/.DS_Store
+
+# python files
+**/*.py[cdo]
+**/__pychache__/*
