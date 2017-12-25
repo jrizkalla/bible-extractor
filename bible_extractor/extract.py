@@ -6,6 +6,9 @@ from collections import OrderedDict
 from urllib.parse import urljoin
 import re
 
+import logging
+log = logging.getLogger(__name__)
+
 import requests as http
 from bs4 import BeautifulSoup
 
@@ -20,7 +23,7 @@ class Extractor:
     """
     
     def __init__(self) -> None:
-        self.extractors: Dict[Url, ExtractorFunc] = {}
+        self.extractors: Dict[Url, ExtractorFunc] = OrderedDict()
     
     def register_extractor(self, url: Url, func: ExtractorFunc) -> None:
         """
@@ -80,11 +83,11 @@ def jesus_is_lord_extractor(url: Url) -> Bible:
     books: Dict[str, BibleBook] = OrderedDict()
     for book_name, book_url in bible_urls.items():
         book_url = urljoin(url, book_url) # full url
-        print(f"Processing book {book_name} from {book_url}")
+        log.info(f"Processing book '{book_name}' from '{book_url}'")
         
-        print(f"\tDownloading...\t", end="", flush=True)
+        log.info("Downloading ...")
         book_html = BeautifulSoup(http.get(book_url).text, "html5lib")
-        print("Done", flush=True)
+        log.info("done")
         
         # Chapters are in special paragraphs. Use them to split the flow
         verse_texts = book_html.select(".MsoNormal")
@@ -113,20 +116,79 @@ def jesus_is_lord_extractor(url: Url) -> Bible:
         for chapter_idx, chap_verses in enumerate(chapter_verses):
             # each text has a number before the actual text except the first one
             verses = [ BibleVerse(num=1, text=chap_verses[0].text) ]
-            # TODO change to iterator
-            split_verses = [ verse.text.split(" ") for verse in chap_verses[1:] ]
-            try:
-                # Some numbers have weird chars appended to them.
-                # just extract the first number using _DIGIT_REGEX
-                verses += [ BibleVerse(num=int(_DIGIT_REGEX.match(split[0]).group(0)), 
-                    text=" ".join(split[1:]))
-                        for split in split_verses if _DIGIT_REGEX.match(split[0])]
-            except AttributeError:
-                import pdb; pdb.set_trace()
+            split_verses = ( verse.text.split(" ") for verse in chap_verses[1:] )
+            # Some numbers have weird chars appended to them.
+            # just extract the first number using _DIGIT_REGEX
+            verses += [ BibleVerse(num=int(_DIGIT_REGEX.match(split[0]).group(0)), 
+                text=" ".join(split[1:]))
+                    for split in split_verses if _DIGIT_REGEX.match(split[0])]
             
             chapters[chapter_idx+1] = verses
             
         books[book_name] = BibleBook(book_name, chapters)
     
-    return Bible(books, old_test_names, new_test_names)
+    bible = Bible(books, old_test_names, new_test_names)
+    errors = bible.check()
+    for err in errors:
+        log.error(err)
+    if len(err) == 0:
+        log.info("No errors in bible")
+    return bible
 
+@DEFAULT_EXTRACTOR.extractor("http://ebible.org/eng-lxx2012/")
+def ebible_extractor(url: Url) -> Bible:
+    # this website only gives old testimate
+    # get info through Json
+    info = http.get("http://ebible.org/study/content/texts/ENGLXX/info.json").json()
+    sections = OrderedDict([ (
+        division,
+        [ sec for sec in info["sections"] if sec.startswith(info["divisions"][i]) ]
+        ) for i, division in enumerate(info["divisionNames"])
+        ])
+
+    SECTION_URL = "http://ebible.org/study/content/texts/ENGLXX/{}.html"
+    
+    VERSE_CLS_REGEX = re.compile("v-(\d+)(-\d+)?")
+    # download and parse the sections
+    # make the bible
+    books: Dict[str, BibleBook] = {}
+    for book, secs in sections.items():
+        sec: Dict[int, BibleVerse] = {}
+        for sec_code in secs:
+            # download the section
+            sec_page = BeautifulSoup(http.get(SECTION_URL.format(sec_code)).text, "html5lib")
+            for verse_text in sec_page.find_all(class_="v-num"):
+                verse_matches = (VERSE_CLS_REGEX.fullmatch(cls) for cls in verse_text.attrs["class"])
+                try:
+                    verse_match = next(vm for vm in verse_matches if vm) # first match
+                except StopIteration:
+                    import pdb; pdb.set_trace()
+                verse_num = int(verse_match.group(1))
+                
+                # the text without the span that has the verse number
+                parent = verse_text.parent
+                verse = parent.text[len(parent.find_next().text):].strip()
+                
+                if verse_match.group(2):
+                    num1 = verse_num
+                    num2 = int(verse_match.group(2)[1:])
+                    num_verses = num2 - num1 + 1
+                    # Split on the dots
+                    if verse_text.text.count(".") == num_verses-1:
+                        texts = verse_text.text.split(".")
+                        verses = { verse_num + i : text + "." for i, text in enumerate(texts) }
+                        for vn, vs in verses.items():
+                            sec[vn] = BibleVerse(num=verse_num, text=vs)
+                        log.warn("Verses {}-{} were combined. Splitting on the periods.".format(num1, num2))
+                        break
+                    else:
+                        log.warn("Warning. Merged verses {} and {} into {} in {}".format(verse_num, verse_match.group(2)[1:], verse_num, book + " " + sec_code))
+                sec[verse_num] = BibleVerse(num=verse_num, text=verse)
+                    
+        books[book.lower()] = BibleBook(book_name=book, chapters=sec)
+
+    return Bible(books, books.keys(), [])
+
+@DEFAULT_EXTRACTOR.extractor("http://biblehub.com/kj2000/matthew/6.htm")
+def biblehub_extractor(url: Url) -> Bible:
+    ...
