@@ -1,110 +1,148 @@
-"""
-Provides the main Bible-containing data structure.
-"""
+import enum
+import typing as T
+from collections import OrderedDict
+import logging
+log = logging.getLogger(__name__)
 
-from typing import NamedTuple, Dict, Set, List, Iterable, Any
+class Testament(enum.Enum):
+    old = 0
+    new = 1
+    unknown = -1
 
-class BibleVerse(NamedTuple):
-    num: int
-    text: str
-
-class BibleBook:
-    def __init__(self, book_name: str, chapters: Dict[int, List[BibleVerse]]) -> None:
-        self.name = str(book_name)
-        self.chapters: Dict[int, List[BibleVerse]] = { i : list(verses) 
-                for i, verses in chapters.items() }
-        
-    __repr__ = lambda s: f"<BibleBook {s.name} with {len(s.chapters)} chapters>"
-    __str__  = lambda s: f"The book of {s.name}"
+class Verse:
+    class Loc(T.NamedTuple):
+        book: str
+        chapter: int
+        verse: int
+        test: Testament
+    # monkey patch Loc to add a default argument
+    Loc.__new__.__defaults__ = (Testament.unknown, )
+    Loc.__repr__ = lambda l: f"Verse.Loc(book={repr(l.book)}, chapter={repr(l.chapter)}, verse={repr(l.verse)}, test={str(l.test)})"
+    Loc.__str__ = lambda l: "{}{}".format(l.book, " {}{}".format(l.chapter, 
+        ":{}".format(l.verse) if l.verse > 0 else "")
+            if l.chapter > 0 else "")
     
-    def json(self) -> Dict[Any, Any]:
-        """
-        Convert the book to JSON.
-        """
-        return self.chapters
     
-SQL_BOOK    = object()
-SQL_CHAPTER = object()
-SQL_VERSE   = object()
-SQL_TEXT    = object()
-
+    def __init__(self, loc: Loc, text: str = ""):
+        assert isinstance(loc, Verse.Loc)
+        self.loc = loc
+        self.content = text
+    
+    def __repr__(self):
+        return f"Verse({repr(self.loc)})"
+    def __str__(self):
+        return self.content
+    
+class BibleInconsistentError(Exception):
+    ...
+    
 class Bible:
-    def __init__(self, books: Dict[str, BibleBook],
-            old_testimate: Iterable[str], new_testimate: Iterable[str]) -> None:
-        self.books = dict(books)
-        self.old_testimate = set(old_testimate)
-        self.new_testimate = set(new_testimate)
-        
-    __repr__ = lambda s: f"<Bible {len(books)}"
-    __str__  = lambda s: f"The Holy Bible"
     
-    def json(self) -> Dict[Any, Any]:
-        """
-        Convert the bible to JSON
-        """
+    @classmethod
+    def from_dict(cls, data) -> "Bible":
+        bible = cls.__new__(cls) # don't call __init__
+        bible.name = data.get("name", "")
+        bible.verses = { **data["testaments"]["old"],
+                **data["testaments"]["new"] }
+        bible.testaments = [
+                data["order"]["old"],
+                data["order"]["new"],
+                ]
+        return bible
+        
+    
+    def __init__(self, name="") -> None:
+        self.name = str(name)
+        self.verses: T.Dict[str, T.Dict[int, T.Dict[int, str]]] = OrderedDict({})
+        self.testaments: T.List[T.List[str]] = [[], []]
+
+    def __getitem__(self, loc: Verse.Loc) -> Verse:
+        is_old_t = loc.book in self.testaments[Testament.old.value]
+        v_loc = Verse.Loc(loc.book,
+                loc.chapter,
+                loc.verse,
+                Testament.old if is_old_t else Testament.new)
+        return Verse(v_loc, self.verses[loc.book][loc.chapter][loc.verse])
+    
+    def __contains__(self, loc: Verse.Loc) -> bool:
+        try:
+            _ = self.verses[loc.book][loc.chapter][loc.verse]
+        except KeyError:
+            return False
+        else:
+            return True
+    
+    def __setitem__(self, loc: Verse.Loc, text: str):
+        # make sure the book can be placed in old or new testament
+        if loc.test != Testament.unknown:
+            if loc.book in self.testaments[(loc.test.value + 1) % 2]:
+                # it's in the other testament. Raise an error
+                raise BibleInconsistentException("a book cannot be in both testaments")
+            if loc.book not in self.testaments[loc.test.value]:
+                self.testaments[loc.test.value].append(loc.book)
+        else:
+            book = loc.book
+            if all(book not in self.testaments[t.value] 
+                    for t in (Testament.old, Testament.new)):
+                raise BibleInconsistentError("a book has to be in one of the testaments")
+        
+        book = self.verses.get(loc.book, OrderedDict({}))
+        chapter = book.get(loc.chapter, OrderedDict({}))
+        chapter[loc.verse] = text
+        
+        book[loc.chapter] = chapter
+        self.verses[loc.book] = book
+    
+    def __iadd__(self, verse: Verse):
+        self[verse.loc] = verse.content
+        return self
+    
+    def __iter__(self) -> T.Generator[Verse, None, None]:
+        for t in (Testament.old, Testament.new):
+            yield from self.iter(t)
+    
+    def iter(self, t: Testament) -> T.Generator[Verse, None, None]:
+        for book in self.testaments[t.value]:
+            for chap_n, chap in self.verses[book].items():
+                for verse_n, verse in chap.items():
+                    yield Verse(Verse.Loc(book, chap_n, verse_n, t), verse)
+                    
+    def warn(self, locs: T.Union[Verse.Loc, T.Iterable[Verse.Loc]], text: str):
+        try:
+            locs = list(locs)
+        except TypeError:
+            locs = [ locs ]
+        log.warn(f"{str(locs[0])}: {text}")
+        
+    
+    
+    def to_dict(self) -> T.Dict[str, T.Any]:
         return {
-                "old_testimate": { b.name: b.json() 
-                    for b in self.books.values() if b.name in self.old_testimate },
-                "new_testimate": { b.name: b.json() 
-                    for b in self.books.values() if b.name in self.new_testimate },
+                "name": self.name,
+                "testaments": {
+                    "old": { b: dict(self.verses[b]) 
+                        for b in self.testaments[Testament.old.value] },
+                    "new": { b: dict(self.verses[b]) 
+                        for b in self.testaments[Testament.new.value] }
+                    },
+                "order": {
+                    "old": list(self.testaments[Testament.old.value]),
+                    "new": list(self.testaments[Testament.new.value]),
+                    }
                 }
         
-    def sql(self, table_name: str, **table: Dict[str, Any]) -> str:
-        """
-        Convert the bible into SQL insert statments.
-        One sql insert statment is issued for each verse and it has schema defined by table.
         
-        The keys of table are the column names.
-        If the value is one of SQL_* defined above, the appropriate values is substituted,
-        otherwise, repr(value) is inserted.
-        
-        Note: neither the table name nor the column names are sanitized.
-        Basic sanitation is applied on values but it should not be trusted.
-        """
-        
-        
-        table_data: List[Tuple[str]] = []
-        for book in self.books.values():
-            print(f"Processing book {book.name}")
-            
-            for chapter_num, chapter in book.chapters.items():
-                for verse_num, verse_text in chapter:
-                    row = list(table.values())
-                    for i in range(len(row)):
-                        col = row[i]
-                        if col is SQL_BOOK:
-                            row[i] = book.name
-                        elif col is SQL_CHAPTER:
-                            row[i] = chapter_num
-                        elif col is SQL_VERSE:
-                            row[i] = verse_num
-                        elif col is SQL_TEXT:
-                            row[i] = verse_text
-                        row[i] = repr(row[i])
-                    # sanitize the row
-                    table_data.append(row)
-                
-        col_names = ", ".join(table.keys())
-        return "\n".join(f"INSERT INTO {table_name} ({col_names})\nVALUES"
-                f"  ({', '.join(row)});" for row in table_data)
-        
-        
-    def check(self) -> List[str]:
-        """
-        Check for errors.
-        :return: a (possibly) empty list of errors.A
-        
-        Checks:
-            1. Chapters are not missing
-            
-        """
-        
-        errors: List[str] = []
-        
-        for book in self.books.values():
-            for chap_num, chapter in book.chapters.items():
-                max_verse = max(v.num for v in chapter)
-                for verse_num in range(max_verse+1):
-                    if chapter[verse_num-1].num != verse_num:
-                        errors.append(f"Inconsistent verse number in chapter {chap_num} in book {book.name}")
-        return errors
+    def merge(self, other: "Bible"):
+        if self.name.strip() == "":
+            self.name = other.name
+        self.verses = other.verses
+        self.testaments = other.testaments
+    
+    
+    def __repr__(self) -> str:
+        num_old = len(self.testaments[Testament.old.value])
+        num_new = len(self.testaments[Testament.new.value])
+        return f"<Bible {num_old} old and {num_new} new testaments>"
+    
+    def __str__(self) -> str:
+        return f"{self.name} bible"

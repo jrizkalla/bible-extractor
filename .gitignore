@@ -6,3 +6,7 @@
 # python files
 **/*.py[cdo]
 **/__pychache__/*
+
+# tests
+output.json
+out2.json
