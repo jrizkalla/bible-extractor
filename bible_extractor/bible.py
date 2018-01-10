@@ -40,14 +40,16 @@ class Bible:
     
     @classmethod
     def from_dict(cls, data) -> "Bible":
-        bible = cls.__new__(cls) # don't call __init__
-        bible.name = data.get("name", "")
-        bible.verses = { **data["testaments"]["old"],
-                **data["testaments"]["new"] }
-        bible.testaments = [
-                data["order"]["old"],
-                data["order"]["new"],
-                ]
+        bible = Bible(name = data.get("name", ""))
+        for test_name, test in zip(("old", "new"), (Testament.old, Testament.new)):
+            # use order for iteraton to preserve order
+            for book_name in data["order"][test_name]:
+                book = data["testaments"][test_name][book_name]
+                for chap_num, chap in book.items():
+                    for verse_num, verse in chap.items():
+                        bible += Verse(Verse.Loc(book_name, 
+                            int(chap_num),
+                            int(verse_num), test), str(verse))
         return bible
         
     

@@ -12,6 +12,7 @@ import typing as T
 from .extract import DEFAULT_EXTRACTOR, extract
 from . import extractors
 from .bible import Bible
+from .stats import get_bible_stats
 #?from .bible import SQL_BOOK, SQL_TEXT, SQL_VERSE, SQL_CHAPTER
 
 ARG_PARSER = ArgumentParser(description="Extract The Bible from specific sources online")
@@ -23,6 +24,7 @@ ARG_PARSER.add_argument("-f", "--format",
         help="The format, one of json or sql. "
         "The default is sql or the extensions of the output file. If ALL is specificed, one of each format is created with the following filename scheme {output_file_name}.{format}",
         metavar="FORMAT", default="NONE", choices=("SQL", "JSON", "ALL"))
+ARG_PARSER.add_argument("-s", "--stats", metavar="FILE", help="Output the statistics of the bible in FILE")
 ARG_PARSER.add_argument("-v", "--verbose", help="Increase verbosity level",
         action="count")
 
@@ -82,16 +84,23 @@ def main(args=None):
             fmts.append("SQL")
         
     result = Bible()
+    stats = {}
     for is_url, source in zip(src_is_url, sources):
         if is_url:
             bible = extract(source)
         else:
             with open(source, "r") as json_file:
                 bible = Bible.from_dict(json.load(json_file))
+        if bible.name.strip() != "":
+            stats[bible.name] = get_bible_stats(bible).to_dict()
         result.merge(bible)
+    if len(sources) > 1:
+        stats["MERGED_BIBLE"] = get_bible_stats(result).to_dict()
+        
     #?with open("test.pkl", "rb") as test_file:
         #?result = pickle.load(test_file)
     #?print(result.check())
+    
     for fmt in fmts:
         if all_selected:
             out_file = f"{args.output}.{fmt.lower()}"
@@ -109,3 +118,7 @@ def main(args=None):
 #?                    v=SQL_VERSE,
 #?                    t=SQL_TEXT)
                 sql_file.write(sql_text)
+    # output stats
+    if args.stats is not None:
+        with open(args.stats, "w") as stats_file:
+            json.dump(stats, stats_file)

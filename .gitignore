@@ -8,5 +8,4 @@
 **/__pychache__/*
 
 # tests
-output.json
-out2.json
+*.json
