@@ -32,6 +32,18 @@ class Verse:
         return f"Verse({repr(self.loc)})"
     def __str__(self):
         return self.content
+
+class BibleWarning(T.NamedTuple):
+    locs: T.Tuple[Verse.Loc]
+    text: str
+
+def __BibleWarning_to_dict(self: BibleWarning) -> T.Dict[str, T.Any]:
+    return {
+            "locs": [ (l[0], l[1], l[2], l[3].value) for l in self.locs ],
+            "text": self.text
+            }
+BibleWarning.to_dict = __BibleWarning_to_dict
+
     
 class BibleInconsistentError(Exception):
     ...
@@ -50,6 +62,11 @@ class Bible:
                         bible += Verse(Verse.Loc(book_name, 
                             int(chap_num),
                             int(verse_num), test), str(verse))
+        # get the warnings
+        for warning in data.get("warnings", {}):
+            locs = tuple(Verse.Loc(l[0], l[1], l[2], Testament(l[3]))
+                    for l in warning["locs"])
+            bible.warnings.add(BibleWarning(locs, warning["text"]))
         return bible
         
     
@@ -57,6 +74,7 @@ class Bible:
         self.name = str(name)
         self.verses: T.Dict[str, T.Dict[int, T.Dict[int, str]]] = OrderedDict({})
         self.testaments: T.List[T.List[str]] = [[], []]
+        self.warnings: T.Set[BibleWarning] = set()
 
     def __getitem__(self, loc: Verse.Loc) -> Verse:
         is_old_t = loc.book in self.testaments[Testament.old.value]
@@ -110,12 +128,14 @@ class Bible:
                     yield Verse(Verse.Loc(book, chap_n, verse_n, t), verse)
                     
     def warn(self, locs: T.Union[Verse.Loc, T.Iterable[Verse.Loc]], text: str):
-        try:
-            locs = list(locs)
-        except TypeError:
-            locs = [ locs ]
+        if isinstance(locs, Verse.Loc):
+            locs = (locs, )
+        else:
+            locs = tuple(locs)
+        locs = tuple(Verse.Loc(str(l[0]), int(l[1]), int(l[2]), Testament(l[3])) 
+                for l in locs)
         log.warn(f"{str(locs[0])}: {text}")
-        
+        self.warnings.add(BibleWarning(locs, text))
     
     
     def to_dict(self) -> T.Dict[str, T.Any]:
@@ -130,7 +150,8 @@ class Bible:
                 "order": {
                     "old": list(self.testaments[Testament.old.value]),
                     "new": list(self.testaments[Testament.new.value]),
-                    }
+                    },
+                "warnings": [ w.to_dict() for w in self.warnings ],
                 }
         
         
@@ -139,6 +160,7 @@ class Bible:
             self.name = other.name
         self.verses = other.verses
         self.testaments = other.testaments
+        self.warnings = self.warnings.union(other.warnings)
     
     
     def __repr__(self) -> str:

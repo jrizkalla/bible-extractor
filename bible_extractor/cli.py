@@ -84,18 +84,17 @@ def main(args=None):
             fmts.append("SQL")
         
     result = Bible()
-    stats = {}
+    stats = []
     for is_url, source in zip(src_is_url, sources):
         if is_url:
             bible = extract(source)
         else:
             with open(source, "r") as json_file:
                 bible = Bible.from_dict(json.load(json_file))
-        if bible.name.strip() != "":
-            stats[bible.name] = get_bible_stats(bible).to_dict()
+        stats.append(get_bible_stats(bible).to_dict())
         result.merge(bible)
     if len(sources) > 1:
-        stats["MERGED_BIBLE"] = get_bible_stats(result).to_dict()
+        stats.append(get_bible_stats(result).to_dict())
         
     #?with open("test.pkl", "rb") as test_file:
         #?result = pickle.load(test_file)

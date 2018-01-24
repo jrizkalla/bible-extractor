@@ -15,7 +15,7 @@ def ebible_extractor(url: Url) -> Bible:
     
     info = http.get("http://ebible.org/study/content/texts/ENGLXX/info.json").json()
     sections = OrderedDict([ (
-        division,
+        (division, info["divisions"][i]),
         [ sec for sec in info["sections"] if sec.startswith(info["divisions"][i]) ]
         ) for i, division in enumerate(info["divisionNames"])
         ])
@@ -29,13 +29,16 @@ def ebible_extractor(url: Url) -> Bible:
     # make the bible
     EXTRACT_NUM_REGEX = re.compile(r"^[^\d]*(\d+)$")
     chap_count = -1
-    for book, chapters in sections.items():
+    for (book, div), chapters in sections.items():
         for chap_code in chapters:
             chap_count += 1
             log.info(f"({chap_count*100 // num_chapters:3}%) Extracting chapter {chap_code} in {book}")
             # get the chapter number
             try:
-                chap_num = int(EXTRACT_NUM_REGEX.match(chap_code).group(1))
+                # the chapter name sometimes ends with a numbers (e.g. Kings 1)
+                # so remove the name from the string before attempting to parse it
+                actual_chap_code = chap_code[len(div):]
+                chap_num = int(EXTRACT_NUM_REGEX.match(actual_chap_code).group(1))
             except (AttributeError, ValueError):
                 book.warn(Verse.Loc(book, -1, -1), 
                         f"Unknown chapter number. Chapter code is {chap_code}")

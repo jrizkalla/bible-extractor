@@ -29,9 +29,9 @@ def get_bible_stats(bible: Bible) -> BibleStats:
             stats.num_books[test.value] += 1
             
             for chap_num, chap in bible.verses[book].items():
-                print(f"Looking at {chap_num}")
                 stats.num_verses_per_chapter[test_name][book][chap_num] = 0
                 
                 for _ in chap.items():
                     stats.num_verses_per_chapter[test_name][book][chap_num] += 1
+    stats.num_warnings = len(bible.warnings)
     return stats

@@ -75,7 +75,7 @@ def drbo(url: Url) -> Bible:
                     try:
                         a_tag = para.select("a")[0]
                     except IndexError:
-                        bible.warn(Verse.Loc(name, chap_num, -1), "Empty paragraph")
+                        bible.warn(Verse.Loc(name, chap_num, -1, testament), "Empty paragraph")
                         continue
                         
                     while a_tag is not None:
@@ -84,7 +84,7 @@ def drbo(url: Url) -> Bible:
                                     base=10)
                         except (AttributeError, ValueError):
                             import pdb; pdb.set_trace()
-                            bible.warn(Verse.Loc(name, chap_num, -1),
+                            bible.warn(Verse.Loc(name, chap_num, -1, testament),
                                     f"Unable to get verse number from '{a_tag.string}'")
                             a_tag = a_tag.next_sibling.next_sibling
                             continue
