@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 
 from ..extract import extractor, Url
 from ..bible import Bible, Verse, Testament
+from .. import warnings as warn
 
 # a blacklist of strings to replace
 STR_BLACKLIST: T.Dict[str, str] = {}
@@ -74,7 +75,8 @@ def ebible_extractor(url: Url) -> Bible:
                 chap_num = int(EXTRACT_NUM_REGEX.match(actual_chap_code).group(1))
             except (AttributeError, ValueError):
                 book.warn(Verse.Loc(book, -1, -1), 
-                        f"Unknown chapter number. Chapter code is {chap_code}")
+                        f"Unknown chapter number. Chapter code is {chap_code}",
+                        warn.unknown_chap_num)
                 continue
             
             chap_page = BeautifulSoup(
@@ -86,12 +88,14 @@ def ebible_extractor(url: Url) -> Bible:
                 try:
                     verse_match = next(vm for vm in verse_matches if vm) # first match
                 except StopIteration:
-                    bible.warn(Verse.Loc(book, chap_num, -1), "Cannot find verses")
+                    bible.warn(Verse.Loc(book, chap_num, -1), "Cannot find verses",
+                            warn.cannot_find_verse)
                     continue
                 try:
                     verse_num = int(verse_match.group(1))
                 except (AttributeError, ValueError):
-                    bible.warn(Verse.Loc(book, chap_num, -1), "Cannot find verse number")
+                    bible.warn(Verse.Loc(book, chap_num, -1), "Cannot find verse number",
+                            warn.cannot_find_verse_num)
                     continue
                 
                 parent = verse_html.parent
@@ -106,7 +110,8 @@ def ebible_extractor(url: Url) -> Bible:
                             Verse.Loc(book, chap_num, v)
                             for v in range(verse_num, int(verse_match.group(2)[1:])+1)
                             ]
-                    bible.warn(locs, "Found bible range. Merging into the first verse.")
+                    bible.warn(locs, "Found bible range. Merging into the first verse.",
+                            warn.verse_range)
                 
                 bible += Verse(Verse.Loc(book, chap_num, verse_num, Testament.old), verse)
     return bible

@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from ..extract import extractor, Url
 from ..bible import Bible, Verse, Testament
 from ..progress import ProgressIndicator
+from .. import warnings as warn
 
 # unfortunately, for this source, book names must be hard coded
 NEW_TEST_NAMES = set() # placeholder
@@ -70,14 +71,16 @@ def biblehub(url: Url) -> Bible:
                         verse_num_str = verse.find("span", class_="reftext").text
                     except AttributeError:
                         bible.warn(Verse.Loc(book_name, chap_num, -1, test),
-                                f"Unable to find verse number")
+                                f"Unable to find verse number", 
+                                warn.cannot_find_verse_num)
                         continue
                         
                     try:
                         verse_num = int(verse_num_str)
                     except ValueError:
                         bible.warn(Verse.Loc(book_name, chap_num, -1, test),
-                                f"Unable to parse verse number '{verse_num_str}'")
+                                f"Unable to parse verse number '{verse_num_str}'",
+                                warn.unknown_verse_num)
                         continue
                     
                     verse_spans = verse.find_all(lambda e:

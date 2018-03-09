@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from ..extract import extractor, Url
 from ..bible import Bible, Verse, Testament
 from ..progress import ProgressIndicator
+from .. import warnings as warn
 
 _VERSE_REGEX = re.compile("\s*\[\s*(\d+)\s*\]\s*")
 
@@ -53,12 +54,14 @@ def drbo(url: Url) -> Bible:
                     num = int(a_tag.string.strip(), base=10)
                 except ValueError:
                     bible.warn(Verse.Loc(name, -1, -1, testament), 
-                            f"Unknown verse number {a.string.strip()}")
+                            f"Unknown verse number {a.string.strip()}",
+                            warn.unknown_verse_num)
                     continue
                 
                 if num in chapter_links:
                     bible.warn(Verse.Loc(name, num, -1, testament),
-                            f"Found chapter {num} twice")
+                            f"Found chapter {num} twice",
+                            warn.multiple_chapters)
                     continue
                 chapter_links[num] = next_chap_url
                 
@@ -75,7 +78,9 @@ def drbo(url: Url) -> Bible:
                     try:
                         a_tag = para.select("a")[0]
                     except IndexError:
-                        bible.warn(Verse.Loc(name, chap_num, -1, testament), "Empty paragraph")
+                        bible.warn(Verse.Loc(name, chap_num, -1, testament),
+                                "Empty paragraph",
+                                warn.empty_verse)
                         continue
                         
                     while a_tag is not None:
