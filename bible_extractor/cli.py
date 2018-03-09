@@ -13,6 +13,7 @@ from .extract import DEFAULT_EXTRACTOR, extract
 from . import extractors
 from .bible import Bible, Verse
 from .stats import get_bible_stats
+from .merge import merge
 #?from .bible import SQL_BOOK, SQL_TEXT, SQL_VERSE, SQL_CHAPTER
 
 ARG_PARSER = ArgumentParser(description="Extract The Bible from specific sources online")
@@ -92,7 +93,7 @@ def main(args=None):
             with open(source, "r") as json_file:
                 bible = Bible.from_dict(json.load(json_file))
         stats.append(get_bible_stats(bible).to_dict())
-        result.merge(bible)
+        result = merge(result, bible)
     if len(sources) > 1:
         stats.append(get_bible_stats(result).to_dict())
         
