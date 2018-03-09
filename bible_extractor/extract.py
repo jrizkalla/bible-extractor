@@ -23,7 +23,7 @@ class Extractor:
     """
     
     def __init__(self) -> None:
-        self.extractors: Dict[Url, ExtractorFunc] = OrderedDict()
+        self.extractors: OrderedDict[Url, ExtractorFunc] = OrderedDict()
     
     def register_extractor(self, url: Url, func: ExtractorFunc) -> None:
         """
