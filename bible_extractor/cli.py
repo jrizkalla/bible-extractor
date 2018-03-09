@@ -11,7 +11,7 @@ import typing as T
 
 from .extract import DEFAULT_EXTRACTOR, extract
 from . import extractors
-from .bible import Bible
+from .bible import Bible, Verse
 from .stats import get_bible_stats
 #?from .bible import SQL_BOOK, SQL_TEXT, SQL_VERSE, SQL_CHAPTER
 

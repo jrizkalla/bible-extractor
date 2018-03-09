@@ -8,6 +8,12 @@ class Testament(enum.Enum):
     old = 0
     new = 1
     unknown = -1
+    
+class CaseInsensitiveStr(str):
+    def __eq__(self, other: str):
+        return self.lower() == other.lower()
+    def __hash__(self) -> int:
+        return hash(self.lower())
 
 class Verse:
     class Loc(T.NamedTuple):
@@ -21,6 +27,9 @@ class Verse:
     Loc.__str__ = lambda l: "{}{}".format(l.book, " {}{}".format(l.chapter, 
         ":{}".format(l.verse) if l.verse > 0 else "")
             if l.chapter > 0 else "")
+    Loc.__hash__ = lambda l: hash((l.book.lower(), l.chapter, l.verse, l.test))
+    Loc.__eq__ = lambda l1, l2: ((l1.book.lower(), l1.chapter, l1.verse, l1.test)
+            == (l2.book.lower(), l2.chapter, l2.verse, l2.test))
     
     
     def __init__(self, loc: Loc, text: str = ""):
@@ -72,8 +81,9 @@ class Bible:
     
     def __init__(self, name="") -> None:
         self.name = str(name)
-        self.verses: T.Dict[str, T.Dict[int, T.Dict[int, str]]] = OrderedDict({})
-        self.testaments: T.List[T.List[str]] = [[], []]
+        self.verses: T.Dict[CaseInsensitiveStr,
+                T.Dict[int, T.Dict[int, str]]] = OrderedDict({})
+        self.testaments: T.List[T.List[CaseInsensitiveStr]] = [[], []]
         self.warnings: T.Set[BibleWarning] = set()
 
     def __getitem__(self, loc: Verse.Loc) -> Verse:
@@ -82,7 +92,7 @@ class Bible:
                 loc.chapter,
                 loc.verse,
                 Testament.old if is_old_t else Testament.new)
-        return Verse(v_loc, self.verses[loc.book][loc.chapter][loc.verse])
+        return Verse(v_loc, self.verses[CaseInsensitiveStr(loc.book)][loc.chapter][loc.verse])
     
     def __contains__(self, loc: Verse.Loc) -> bool:
         try:
@@ -93,25 +103,25 @@ class Bible:
             return True
     
     def __setitem__(self, loc: Verse.Loc, text: str):
+        book_name = CaseInsensitiveStr(loc.book)
         # make sure the book can be placed in old or new testament
         if loc.test != Testament.unknown:
-            if loc.book in self.testaments[(loc.test.value + 1) % 2]:
+            if book_name in self.testaments[(loc.test.value + 1) % 2]:
                 # it's in the other testament. Raise an error
                 raise BibleInconsistentException("a book cannot be in both testaments")
-            if loc.book not in self.testaments[loc.test.value]:
-                self.testaments[loc.test.value].append(loc.book)
+            if book_name not in self.testaments[loc.test.value]:
+                self.testaments[loc.test.value].append(book_name)
         else:
-            book = loc.book
-            if all(book not in self.testaments[t.value] 
+            if all(book_name not in self.testaments[t.value] 
                     for t in (Testament.old, Testament.new)):
                 raise BibleInconsistentError("a book has to be in one of the testaments")
         
-        book = self.verses.get(loc.book, OrderedDict({}))
+        book = self.verses.get(book_name, OrderedDict({}))
         chapter = book.get(loc.chapter, OrderedDict({}))
         chapter[loc.verse] = text
         
         book[loc.chapter] = chapter
-        self.verses[loc.book] = book
+        self.verses[book_name] = book
     
     def __iadd__(self, verse: Verse):
         self[verse.loc] = verse.content
