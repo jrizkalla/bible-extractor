@@ -30,6 +30,7 @@ class Verse:
     Loc.__hash__ = lambda l: hash((l.book.lower(), l.chapter, l.verse, l.test))
     Loc.__eq__ = lambda l1, l2: ((l1.book.lower(), l1.chapter, l1.verse, l1.test)
             == (l2.book.lower(), l2.chapter, l2.verse, l2.test))
+    Loc.remove_test = lambda l: Verse.Loc(l.book, l.chapter, l.verse, Testament.unknown)
     
     
     def __init__(self, loc: Loc, text: str = ""):
