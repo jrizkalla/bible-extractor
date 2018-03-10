@@ -5,6 +5,11 @@ from ..bible import *
 from .. import warnings as warn
 
 def remove_ranges(bible: Bible) -> Bible:
+    """
+Remove all verses that were merged using
+'wanings.verse_range' type warnings.
+    """
+    
     log = logging.getLogger(__name__)
     blacklist_locs = set()
     for warning in (w for w in bible.warnings if w.type == warn.verse_range):

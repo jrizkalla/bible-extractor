@@ -46,8 +46,11 @@ def _print_list():
     
     print("\nFunctions")
     for func in FUNCTIONS:
-        desc = func.__doc__.strip().replace("\n", f"\n{' ' * (8 + 20 + 2)}")
-        print(f"{func.__name__:20} {' ' * 8} {desc}")
+        try:
+            desc = func.__doc__.strip().replace("\n", f"\n{' ' * (8 + 20 + 2)}")
+        except AttributeError:
+            desc = ""
+        print(f"{func.__name__:20} {' ' * 8} {desc}\n")
         
 
 _SOURCE_REGEX = re.compile(r"([^:]+)((:[^:]*)*)")
