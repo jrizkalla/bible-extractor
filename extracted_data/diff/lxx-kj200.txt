@@ -1,283 +1,283 @@
 Books:
 lxx has 35 books not in kj2000:
-	- Kings II
-	- Malachias
-	- Sophonias
-	- Obdias
-	- Jonas
-	- Baruch
-	- Wisdom
-	- Epistle of Jeremy
-	- Song of Songs
-	- Bel and the Dragon
-	- Ambacum
-	- Chronicles I
-	- Jeremias
-	- Naum
-	- Kings III
-	- Kings IV
-	- Osee
-	- Prayer of Manasses
 	- 3 Maccabees
-	- Chronicles II
-	- Michaeas
-	- Esias
-	- 1 Maccabees
-	- 4 Maccabees
-	- Zacharias
-	- Jezekiel
-	- Sirach
-	- 2 Maccabees
-	- Susanna
-	- Tobit
-	- Prayer of Azarias
-	- Kings I
-	- Aggaeus
-	- I Esdras
+	- Sophonias
 	- Judith
+	- Zacharias
+	- Kings I
+	- Naum
+	- Esias
+	- Chronicles II
+	- Kings IV
+	- Aggaeus
+	- 4 Maccabees
+	- I Esdras
+	- 2 Maccabees
+	- Song of Songs
+	- Michaeas
+	- Ambacum
+	- Sirach
+	- Tobit
+	- Jonas
+	- Obdias
+	- Susanna
+	- Baruch
+	- Chronicles I
+	- Kings III
+	- Wisdom
+	- Jeremias
+	- Jezekiel
+	- Kings II
+	- Bel and the Dragon
+	- Malachias
+	- 1 Maccabees
+	- Epistle of Jeremy
+	- Prayer of Manasses
+	- Prayer of Azarias
+	- Osee
 kj2000 has 47 books not in lxx:
-	- Colossians
-	- Malachi
-	- Micah
-	- 2 Thessalonians
-	- Jude
-	- 1 Corinthians
-	- 2 Timothy
-	- James
-	- Songs
-	- Mark
-	- Zechariah
-	- 1 John
-	- 1 Samuel
-	- Ezekiel
-	- Obadiah
-	- 2 Peter
-	- Matthew
-	- Jeremiah
-	- Titus
-	- 2 Chronicles
-	- 2 Kings
-	- 1 Kings
-	- Jonah
-	- Philippians
-	- Galatians
-	- Philemon
-	- 1 Timothy
-	- Isaiah
-	- Habakkuk
 	- John
-	- 1 Chronicles
+	- Songs
+	- Colossians
+	- Titus
+	- 2 Peter
+	- 2 Kings
+	- Romans
+	- Matthew
+	- Micah
+	- Jeremiah
+	- Jonah
+	- Nahum
+	- 2 Corinthians
+	- 1 Peter
+	- Isaiah
+	- Malachi
 	- Zephaniah
 	- 2 John
-	- 2 Samuel
-	- 3 John
-	- Hosea
-	- Ephesians
-	- 2 Corinthians
 	- Revelation
-	- 1 Peter
-	- Romans
-	- Hebrews
-	- 1 Thessalonians
-	- Luke
-	- Nahum
-	- Acts
 	- Haggai
+	- Habakkuk
+	- 3 John
+	- Philemon
+	- Hosea
+	- James
+	- 2 Samuel
+	- 1 Corinthians
+	- Luke
+	- Mark
+	- Ephesians
+	- 1 Kings
+	- Ezekiel
+	- 2 Thessalonians
+	- Galatians
+	- 1 Timothy
+	- 2 Chronicles
+	- 1 Chronicles
+	- 1 John
+	- Philippians
+	- Hebrews
+	- 1 Samuel
+	- Obadiah
+	- 2 Timothy
+	- Jude
+	- Zechariah
+	- 1 Thessalonians
+	- Acts
 
 
 Looking at 19 books in both Bibles
 
-              Esther   4: lxx has  16 verses but kj2000 has  17 verse
-              Esther   9: lxx has  30 verses but kj2000 has  32 verse
-            Proverbs   4: lxx has  26 verses but kj2000 has  27 verse
-            Proverbs  13: lxx has  24 verses but kj2000 has  25 verse
-            Proverbs  15: lxx has  31 verses but kj2000 has  33 verse
-            Proverbs  16: lxx has  26 verses but kj2000 has  33 verse
-            Proverbs  18: lxx has  22 verses but kj2000 has  24 verse
-            Proverbs  19: lxx has  27 verses but kj2000 has  29 verse
-            Proverbs  20: lxx has  24 verses but kj2000 has  30 verse
-            Proverbs  21: lxx has  30 verses but kj2000 has  31 verse
-            Proverbs  22: lxx has  28 verses but kj2000 has  29 verse
-            Proverbs  23: lxx has  34 verses but kj2000 has  35 verse
-                Amos   6: lxx has  15 verses but kj2000 has  14 verse
-           Leviticus   6: lxx has  40 verses but kj2000 has  30 verse
-           Leviticus   7: lxx has  28 verses but kj2000 has  38 verse
-                 Job  16: lxx has  23 verses but kj2000 has  22 verse
-                 Job  23: lxx has  16 verses but kj2000 has  17 verse
-                 Job  39: lxx has  35 verses but kj2000 has  30 verse
-                 Job  40: lxx has  27 verses but kj2000 has  24 verse
-                 Job  41: lxx has  25 verses but kj2000 has  34 verse
-              Joshua   5: lxx has  16 verses but kj2000 has  15 verse
-              Joshua   8: lxx has  33 verses but kj2000 has  35 verse
-              Joshua   9: lxx has  30 verses but kj2000 has  27 verse
-              Joshua  10: lxx has  41 verses but kj2000 has  43 verse
-              Joshua  13: lxx has  32 verses but kj2000 has  33 verse
-              Joshua  20: lxx has   6 verses but kj2000 has   9 verse
-              Joshua  21: lxx has  43 verses but kj2000 has  45 verse
-             Genesis   2: lxx has  24 verses but kj2000 has  25 verse
-             Genesis   5: lxx has  31 verses but kj2000 has  32 verse
-             Genesis  22: lxx has  23 verses but kj2000 has  24 verse
-             Genesis  36: lxx has  44 verses but kj2000 has  43 verse
-             Genesis  37: lxx has  34 verses but kj2000 has  36 verse
-              Exodus  28: lxx has  39 verses but kj2000 has  43 verse
-              Exodus  36: lxx has  40 verses but kj2000 has  38 verse
-              Exodus  37: lxx has  21 verses but kj2000 has  29 verse
-              Exodus  38: lxx has  27 verses but kj2000 has  31 verse
-              Exodus  39: lxx has  23 verses but kj2000 has  43 verse
-              Exodus  40: lxx has  31 verses but kj2000 has  38 verse
-         Deuteronomy  14: lxx has  28 verses but kj2000 has  29 verse
-         Deuteronomy  23: lxx has  23 verses but kj2000 has  25 verse
-         Deuteronomy  24: lxx has  24 verses but kj2000 has  22 verse
-         Deuteronomy  31: lxx has  29 verses but kj2000 has  30 verse
-              Daniel   3: lxx has  33 verses but kj2000 has  30 verse
-              Daniel   4: lxx has  34 verses but kj2000 has  37 verse
-            Nehemiah   4: lxx has  22 verses but kj2000 has  23 verse
-            Nehemiah   7: lxx has  72 verses but kj2000 has  73 verse
-            Nehemiah  11: lxx has  27 verses but kj2000 has  36 verse
-            Nehemiah  12: lxx has  41 verses but kj2000 has  47 verse
-        Lamentations   3: lxx has  65 verses but kj2000 has  66 verse
-              Judges   5: lxx has  32 verses but kj2000 has  31 verse
-              Psalms   9: lxx has  38 verses but kj2000 has  20 verse
-              Psalms  10: lxx has   8 verses but kj2000 has  18 verse
-              Psalms  11: lxx has   8 verses but kj2000 has   7 verse
-              Psalms  12: lxx has   6 verses but kj2000 has   8 verse
-              Psalms  13: lxx has   7 verses but kj2000 has   6 verse
-              Psalms  14: lxx has   5 verses but kj2000 has   7 verse
-              Psalms  15: lxx has  11 verses but kj2000 has   5 verse
-              Psalms  16: lxx has  15 verses but kj2000 has  11 verse
-              Psalms  17: lxx has  50 verses but kj2000 has  15 verse
-              Psalms  18: lxx has  14 verses but kj2000 has  50 verse
-              Psalms  19: lxx has   9 verses but kj2000 has  14 verse
-              Psalms  20: lxx has  13 verses but kj2000 has   9 verse
-              Psalms  21: lxx has  31 verses but kj2000 has  13 verse
-              Psalms  22: lxx has   6 verses but kj2000 has  31 verse
-              Psalms  23: lxx has  10 verses but kj2000 has   6 verse
-              Psalms  24: lxx has  22 verses but kj2000 has  10 verse
-              Psalms  25: lxx has  12 verses but kj2000 has  22 verse
-              Psalms  26: lxx has  14 verses but kj2000 has  12 verse
-              Psalms  27: lxx has   9 verses but kj2000 has  14 verse
-              Psalms  28: lxx has  11 verses but kj2000 has   9 verse
-              Psalms  29: lxx has  12 verses but kj2000 has  11 verse
-              Psalms  30: lxx has  24 verses but kj2000 has  12 verse
-              Psalms  31: lxx has  11 verses but kj2000 has  24 verse
-              Psalms  32: lxx has  22 verses but kj2000 has  11 verse
-              Psalms  34: lxx has  28 verses but kj2000 has  22 verse
-              Psalms  35: lxx has  12 verses but kj2000 has  28 verse
-              Psalms  36: lxx has  40 verses but kj2000 has  12 verse
-              Psalms  37: lxx has  22 verses but kj2000 has  40 verse
-              Psalms  38: lxx has  13 verses but kj2000 has  22 verse
-              Psalms  39: lxx has  17 verses but kj2000 has  13 verse
-              Psalms  40: lxx has  13 verses but kj2000 has  17 verse
-              Psalms  41: lxx has  11 verses but kj2000 has  13 verse
-              Psalms  42: lxx has   5 verses but kj2000 has  11 verse
-              Psalms  43: lxx has  26 verses but kj2000 has   5 verse
-              Psalms  44: lxx has  17 verses but kj2000 has  26 verse
-              Psalms  45: lxx has  11 verses but kj2000 has  17 verse
-              Psalms  46: lxx has   9 verses but kj2000 has  11 verse
-              Psalms  47: lxx has  14 verses but kj2000 has   9 verse
-              Psalms  48: lxx has  20 verses but kj2000 has  14 verse
-              Psalms  49: lxx has  23 verses but kj2000 has  20 verse
-              Psalms  50: lxx has  19 verses but kj2000 has  23 verse
-              Psalms  51: lxx has   9 verses but kj2000 has  19 verse
-              Psalms  52: lxx has   6 verses but kj2000 has   9 verse
-              Psalms  53: lxx has   7 verses but kj2000 has   6 verse
-              Psalms  54: lxx has  23 verses but kj2000 has   7 verse
-              Psalms  55: lxx has  13 verses but kj2000 has  23 verse
-              Psalms  56: lxx has  11 verses but kj2000 has  13 verse
-              Psalms  58: lxx has  17 verses but kj2000 has  11 verse
-              Psalms  59: lxx has  12 verses but kj2000 has  17 verse
-              Psalms  60: lxx has   8 verses but kj2000 has  12 verse
-              Psalms  61: lxx has  12 verses but kj2000 has   8 verse
-              Psalms  62: lxx has  11 verses but kj2000 has  12 verse
-              Psalms  63: lxx has  10 verses but kj2000 has  11 verse
-              Psalms  64: lxx has  13 verses but kj2000 has  10 verse
-              Psalms  65: lxx has  20 verses but kj2000 has  13 verse
-              Psalms  66: lxx has   7 verses but kj2000 has  20 verse
-              Psalms  67: lxx has  35 verses but kj2000 has   7 verse
-              Psalms  68: lxx has  36 verses but kj2000 has  35 verse
-              Psalms  69: lxx has   5 verses but kj2000 has  36 verse
-              Psalms  70: lxx has  24 verses but kj2000 has   5 verse
-              Psalms  71: lxx has  20 verses but kj2000 has  24 verse
-              Psalms  72: lxx has  28 verses but kj2000 has  20 verse
-              Psalms  73: lxx has  23 verses but kj2000 has  28 verse
-              Psalms  74: lxx has  10 verses but kj2000 has  23 verse
-              Psalms  75: lxx has  12 verses but kj2000 has  10 verse
-              Psalms  76: lxx has  20 verses but kj2000 has  12 verse
-              Psalms  77: lxx has  72 verses but kj2000 has  20 verse
-              Psalms  78: lxx has  13 verses but kj2000 has  72 verse
-              Psalms  79: lxx has  19 verses but kj2000 has  13 verse
-              Psalms  80: lxx has  16 verses but kj2000 has  19 verse
-              Psalms  81: lxx has   8 verses but kj2000 has  16 verse
-              Psalms  82: lxx has  18 verses but kj2000 has   8 verse
-              Psalms  83: lxx has  12 verses but kj2000 has  18 verse
-              Psalms  84: lxx has  13 verses but kj2000 has  12 verse
-              Psalms  85: lxx has  17 verses but kj2000 has  13 verse
-              Psalms  86: lxx has   7 verses but kj2000 has  17 verse
-              Psalms  87: lxx has  18 verses but kj2000 has   7 verse
-              Psalms  88: lxx has  52 verses but kj2000 has  18 verse
-              Psalms  89: lxx has  17 verses but kj2000 has  52 verse
-              Psalms  90: lxx has  16 verses but kj2000 has  17 verse
-              Psalms  91: lxx has  15 verses but kj2000 has  16 verse
-              Psalms  92: lxx has   5 verses but kj2000 has  15 verse
-              Psalms  93: lxx has  23 verses but kj2000 has   5 verse
-              Psalms  94: lxx has  11 verses but kj2000 has  23 verse
-              Psalms  95: lxx has  13 verses but kj2000 has  11 verse
-              Psalms  96: lxx has  12 verses but kj2000 has  13 verse
-              Psalms  97: lxx has   9 verses but kj2000 has  12 verse
-              Psalms  99: lxx has   5 verses but kj2000 has   9 verse
-              Psalms 100: lxx has   8 verses but kj2000 has   5 verse
-              Psalms 101: lxx has  28 verses but kj2000 has   8 verse
-              Psalms 102: lxx has  22 verses but kj2000 has  28 verse
-              Psalms 103: lxx has  35 verses but kj2000 has  22 verse
-              Psalms 104: lxx has  45 verses but kj2000 has  35 verse
-              Psalms 105: lxx has  48 verses but kj2000 has  45 verse
-              Psalms 106: lxx has  43 verses but kj2000 has  48 verse
-              Psalms 107: lxx has  13 verses but kj2000 has  43 verse
-              Psalms 108: lxx has  31 verses but kj2000 has  13 verse
-              Psalms 109: lxx has   7 verses but kj2000 has  31 verse
-              Psalms 110: lxx has  10 verses but kj2000 has   7 verse
-              Psalms 112: lxx has   9 verses but kj2000 has  10 verse
-              Psalms 113: lxx has   8 verses but kj2000 has   9 verse
-              Psalms 114: lxx has  18 verses but kj2000 has   8 verse
-              Psalms 115: lxx has  19 verses but kj2000 has  18 verse
-              Psalms 116: lxx has   2 verses but kj2000 has  19 verse
-              Psalms 117: lxx has  29 verses but kj2000 has   2 verse
-              Psalms 118: lxx has 175 verses but kj2000 has  29 verse
-              Psalms 119: lxx has   7 verses but kj2000 has 176 verse
-              Psalms 120: lxx has   8 verses but kj2000 has   7 verse
-              Psalms 121: lxx has   9 verses but kj2000 has   8 verse
-              Psalms 122: lxx has   4 verses but kj2000 has   9 verse
-              Psalms 123: lxx has   8 verses but kj2000 has   4 verse
-              Psalms 124: lxx has   5 verses but kj2000 has   8 verse
-              Psalms 125: lxx has   6 verses but kj2000 has   5 verse
-              Psalms 126: lxx has   5 verses but kj2000 has   6 verse
-              Psalms 127: lxx has   6 verses but kj2000 has   5 verse
-              Psalms 128: lxx has   8 verses but kj2000 has   6 verse
-              Psalms 130: lxx has   3 verses but kj2000 has   8 verse
-              Psalms 131: lxx has  18 verses but kj2000 has   3 verse
-              Psalms 132: lxx has   3 verses but kj2000 has  18 verse
-              Psalms 134: lxx has  21 verses but kj2000 has   3 verse
-              Psalms 135: lxx has  26 verses but kj2000 has  21 verse
-              Psalms 136: lxx has   9 verses but kj2000 has  26 verse
-              Psalms 137: lxx has   8 verses but kj2000 has   9 verse
-              Psalms 138: lxx has  24 verses but kj2000 has   8 verse
-              Psalms 139: lxx has  13 verses but kj2000 has  24 verse
-              Psalms 140: lxx has  10 verses but kj2000 has  13 verse
-              Psalms 141: lxx has   7 verses but kj2000 has  10 verse
-              Psalms 142: lxx has  12 verses but kj2000 has   7 verse
-              Psalms 143: lxx has  15 verses but kj2000 has  12 verse
-              Psalms 144: lxx has  21 verses but kj2000 has  15 verse
-              Psalms 145: lxx has  10 verses but kj2000 has  21 verse
-              Psalms 146: lxx has  11 verses but kj2000 has  10 verse
-              Psalms 147: lxx has   9 verses but kj2000 has  20 verse
-              Psalms 149: lxx has   8 verses but kj2000 has   9 verse
+                 Job  16: lxx has  23 verse(s) but kj2000 has  22 verse(s)
+                 Job  23: lxx has  16 verse(s) but kj2000 has  17 verse(s)
+                 Job  39: lxx has  35 verse(s) but kj2000 has  30 verse(s)
+                 Job  40: lxx has  27 verse(s) but kj2000 has  24 verse(s)
+                 Job  41: lxx has  25 verse(s) but kj2000 has  34 verse(s)
+        Lamentations   3: lxx has  65 verse(s) but kj2000 has  66 verse(s)
+             Genesis   2: lxx has  24 verse(s) but kj2000 has  25 verse(s)
+             Genesis   5: lxx has  31 verse(s) but kj2000 has  32 verse(s)
+             Genesis  22: lxx has  23 verse(s) but kj2000 has  24 verse(s)
+             Genesis  36: lxx has  44 verse(s) but kj2000 has  43 verse(s)
+             Genesis  37: lxx has  34 verse(s) but kj2000 has  36 verse(s)
+            Nehemiah   4: lxx has  22 verse(s) but kj2000 has  23 verse(s)
+            Nehemiah   7: lxx has  72 verse(s) but kj2000 has  73 verse(s)
+            Nehemiah  11: lxx has  27 verse(s) but kj2000 has  36 verse(s)
+            Nehemiah  12: lxx has  41 verse(s) but kj2000 has  47 verse(s)
+              Psalms   9: lxx has  38 verse(s) but kj2000 has  20 verse(s)
+              Psalms  10: lxx has   8 verse(s) but kj2000 has  18 verse(s)
+              Psalms  11: lxx has   8 verse(s) but kj2000 has   7 verse(s)
+              Psalms  12: lxx has   6 verse(s) but kj2000 has   8 verse(s)
+              Psalms  13: lxx has   7 verse(s) but kj2000 has   6 verse(s)
+              Psalms  14: lxx has   5 verse(s) but kj2000 has   7 verse(s)
+              Psalms  15: lxx has  11 verse(s) but kj2000 has   5 verse(s)
+              Psalms  16: lxx has  15 verse(s) but kj2000 has  11 verse(s)
+              Psalms  17: lxx has  50 verse(s) but kj2000 has  15 verse(s)
+              Psalms  18: lxx has  14 verse(s) but kj2000 has  50 verse(s)
+              Psalms  19: lxx has   9 verse(s) but kj2000 has  14 verse(s)
+              Psalms  20: lxx has  13 verse(s) but kj2000 has   9 verse(s)
+              Psalms  21: lxx has  31 verse(s) but kj2000 has  13 verse(s)
+              Psalms  22: lxx has   6 verse(s) but kj2000 has  31 verse(s)
+              Psalms  23: lxx has  10 verse(s) but kj2000 has   6 verse(s)
+              Psalms  24: lxx has  22 verse(s) but kj2000 has  10 verse(s)
+              Psalms  25: lxx has  12 verse(s) but kj2000 has  22 verse(s)
+              Psalms  26: lxx has  14 verse(s) but kj2000 has  12 verse(s)
+              Psalms  27: lxx has   9 verse(s) but kj2000 has  14 verse(s)
+              Psalms  28: lxx has  11 verse(s) but kj2000 has   9 verse(s)
+              Psalms  29: lxx has  12 verse(s) but kj2000 has  11 verse(s)
+              Psalms  30: lxx has  24 verse(s) but kj2000 has  12 verse(s)
+              Psalms  31: lxx has  11 verse(s) but kj2000 has  24 verse(s)
+              Psalms  32: lxx has  22 verse(s) but kj2000 has  11 verse(s)
+              Psalms  34: lxx has  28 verse(s) but kj2000 has  22 verse(s)
+              Psalms  35: lxx has  12 verse(s) but kj2000 has  28 verse(s)
+              Psalms  36: lxx has  40 verse(s) but kj2000 has  12 verse(s)
+              Psalms  37: lxx has  22 verse(s) but kj2000 has  40 verse(s)
+              Psalms  38: lxx has  13 verse(s) but kj2000 has  22 verse(s)
+              Psalms  39: lxx has  17 verse(s) but kj2000 has  13 verse(s)
+              Psalms  40: lxx has  13 verse(s) but kj2000 has  17 verse(s)
+              Psalms  41: lxx has  11 verse(s) but kj2000 has  13 verse(s)
+              Psalms  42: lxx has   5 verse(s) but kj2000 has  11 verse(s)
+              Psalms  43: lxx has  26 verse(s) but kj2000 has   5 verse(s)
+              Psalms  44: lxx has  17 verse(s) but kj2000 has  26 verse(s)
+              Psalms  45: lxx has  11 verse(s) but kj2000 has  17 verse(s)
+              Psalms  46: lxx has   9 verse(s) but kj2000 has  11 verse(s)
+              Psalms  47: lxx has  14 verse(s) but kj2000 has   9 verse(s)
+              Psalms  48: lxx has  20 verse(s) but kj2000 has  14 verse(s)
+              Psalms  49: lxx has  23 verse(s) but kj2000 has  20 verse(s)
+              Psalms  50: lxx has  19 verse(s) but kj2000 has  23 verse(s)
+              Psalms  51: lxx has   9 verse(s) but kj2000 has  19 verse(s)
+              Psalms  52: lxx has   6 verse(s) but kj2000 has   9 verse(s)
+              Psalms  53: lxx has   7 verse(s) but kj2000 has   6 verse(s)
+              Psalms  54: lxx has  23 verse(s) but kj2000 has   7 verse(s)
+              Psalms  55: lxx has  13 verse(s) but kj2000 has  23 verse(s)
+              Psalms  56: lxx has  11 verse(s) but kj2000 has  13 verse(s)
+              Psalms  58: lxx has  17 verse(s) but kj2000 has  11 verse(s)
+              Psalms  59: lxx has  12 verse(s) but kj2000 has  17 verse(s)
+              Psalms  60: lxx has   8 verse(s) but kj2000 has  12 verse(s)
+              Psalms  61: lxx has  12 verse(s) but kj2000 has   8 verse(s)
+              Psalms  62: lxx has  11 verse(s) but kj2000 has  12 verse(s)
+              Psalms  63: lxx has  10 verse(s) but kj2000 has  11 verse(s)
+              Psalms  64: lxx has  13 verse(s) but kj2000 has  10 verse(s)
+              Psalms  65: lxx has  20 verse(s) but kj2000 has  13 verse(s)
+              Psalms  66: lxx has   7 verse(s) but kj2000 has  20 verse(s)
+              Psalms  67: lxx has  35 verse(s) but kj2000 has   7 verse(s)
+              Psalms  68: lxx has  36 verse(s) but kj2000 has  35 verse(s)
+              Psalms  69: lxx has   5 verse(s) but kj2000 has  36 verse(s)
+              Psalms  70: lxx has  24 verse(s) but kj2000 has   5 verse(s)
+              Psalms  71: lxx has  20 verse(s) but kj2000 has  24 verse(s)
+              Psalms  72: lxx has  28 verse(s) but kj2000 has  20 verse(s)
+              Psalms  73: lxx has  23 verse(s) but kj2000 has  28 verse(s)
+              Psalms  74: lxx has  10 verse(s) but kj2000 has  23 verse(s)
+              Psalms  75: lxx has  12 verse(s) but kj2000 has  10 verse(s)
+              Psalms  76: lxx has  20 verse(s) but kj2000 has  12 verse(s)
+              Psalms  77: lxx has  72 verse(s) but kj2000 has  20 verse(s)
+              Psalms  78: lxx has  13 verse(s) but kj2000 has  72 verse(s)
+              Psalms  79: lxx has  19 verse(s) but kj2000 has  13 verse(s)
+              Psalms  80: lxx has  16 verse(s) but kj2000 has  19 verse(s)
+              Psalms  81: lxx has   8 verse(s) but kj2000 has  16 verse(s)
+              Psalms  82: lxx has  18 verse(s) but kj2000 has   8 verse(s)
+              Psalms  83: lxx has  12 verse(s) but kj2000 has  18 verse(s)
+              Psalms  84: lxx has  13 verse(s) but kj2000 has  12 verse(s)
+              Psalms  85: lxx has  17 verse(s) but kj2000 has  13 verse(s)
+              Psalms  86: lxx has   7 verse(s) but kj2000 has  17 verse(s)
+              Psalms  87: lxx has  18 verse(s) but kj2000 has   7 verse(s)
+              Psalms  88: lxx has  52 verse(s) but kj2000 has  18 verse(s)
+              Psalms  89: lxx has  17 verse(s) but kj2000 has  52 verse(s)
+              Psalms  90: lxx has  16 verse(s) but kj2000 has  17 verse(s)
+              Psalms  91: lxx has  15 verse(s) but kj2000 has  16 verse(s)
+              Psalms  92: lxx has   5 verse(s) but kj2000 has  15 verse(s)
+              Psalms  93: lxx has  23 verse(s) but kj2000 has   5 verse(s)
+              Psalms  94: lxx has  11 verse(s) but kj2000 has  23 verse(s)
+              Psalms  95: lxx has  13 verse(s) but kj2000 has  11 verse(s)
+              Psalms  96: lxx has  12 verse(s) but kj2000 has  13 verse(s)
+              Psalms  97: lxx has   9 verse(s) but kj2000 has  12 verse(s)
+              Psalms  99: lxx has   5 verse(s) but kj2000 has   9 verse(s)
+              Psalms 100: lxx has   8 verse(s) but kj2000 has   5 verse(s)
+              Psalms 101: lxx has  28 verse(s) but kj2000 has   8 verse(s)
+              Psalms 102: lxx has  22 verse(s) but kj2000 has  28 verse(s)
+              Psalms 103: lxx has  35 verse(s) but kj2000 has  22 verse(s)
+              Psalms 104: lxx has  45 verse(s) but kj2000 has  35 verse(s)
+              Psalms 105: lxx has  48 verse(s) but kj2000 has  45 verse(s)
+              Psalms 106: lxx has  43 verse(s) but kj2000 has  48 verse(s)
+              Psalms 107: lxx has  13 verse(s) but kj2000 has  43 verse(s)
+              Psalms 108: lxx has  31 verse(s) but kj2000 has  13 verse(s)
+              Psalms 109: lxx has   7 verse(s) but kj2000 has  31 verse(s)
+              Psalms 110: lxx has  10 verse(s) but kj2000 has   7 verse(s)
+              Psalms 112: lxx has   9 verse(s) but kj2000 has  10 verse(s)
+              Psalms 113: lxx has   8 verse(s) but kj2000 has   9 verse(s)
+              Psalms 114: lxx has  18 verse(s) but kj2000 has   8 verse(s)
+              Psalms 115: lxx has  19 verse(s) but kj2000 has  18 verse(s)
+              Psalms 116: lxx has   2 verse(s) but kj2000 has  19 verse(s)
+              Psalms 117: lxx has  29 verse(s) but kj2000 has   2 verse(s)
+              Psalms 118: lxx has 175 verse(s) but kj2000 has  29 verse(s)
+              Psalms 119: lxx has   7 verse(s) but kj2000 has 176 verse(s)
+              Psalms 120: lxx has   8 verse(s) but kj2000 has   7 verse(s)
+              Psalms 121: lxx has   9 verse(s) but kj2000 has   8 verse(s)
+              Psalms 122: lxx has   4 verse(s) but kj2000 has   9 verse(s)
+              Psalms 123: lxx has   8 verse(s) but kj2000 has   4 verse(s)
+              Psalms 124: lxx has   5 verse(s) but kj2000 has   8 verse(s)
+              Psalms 125: lxx has   6 verse(s) but kj2000 has   5 verse(s)
+              Psalms 126: lxx has   5 verse(s) but kj2000 has   6 verse(s)
+              Psalms 127: lxx has   6 verse(s) but kj2000 has   5 verse(s)
+              Psalms 128: lxx has   8 verse(s) but kj2000 has   6 verse(s)
+              Psalms 130: lxx has   3 verse(s) but kj2000 has   8 verse(s)
+              Psalms 131: lxx has  18 verse(s) but kj2000 has   3 verse(s)
+              Psalms 132: lxx has   3 verse(s) but kj2000 has  18 verse(s)
+              Psalms 134: lxx has  21 verse(s) but kj2000 has   3 verse(s)
+              Psalms 135: lxx has  26 verse(s) but kj2000 has  21 verse(s)
+              Psalms 136: lxx has   9 verse(s) but kj2000 has  26 verse(s)
+              Psalms 137: lxx has   8 verse(s) but kj2000 has   9 verse(s)
+              Psalms 138: lxx has  24 verse(s) but kj2000 has   8 verse(s)
+              Psalms 139: lxx has  13 verse(s) but kj2000 has  24 verse(s)
+              Psalms 140: lxx has  10 verse(s) but kj2000 has  13 verse(s)
+              Psalms 141: lxx has   7 verse(s) but kj2000 has  10 verse(s)
+              Psalms 142: lxx has  12 verse(s) but kj2000 has   7 verse(s)
+              Psalms 143: lxx has  15 verse(s) but kj2000 has  12 verse(s)
+              Psalms 144: lxx has  21 verse(s) but kj2000 has  15 verse(s)
+              Psalms 145: lxx has  10 verse(s) but kj2000 has  21 verse(s)
+              Psalms 146: lxx has  11 verse(s) but kj2000 has  10 verse(s)
+              Psalms 147: lxx has   9 verse(s) but kj2000 has  20 verse(s)
+              Psalms 149: lxx has   8 verse(s) but kj2000 has   9 verse(s)
 Psalms: chapter 151 is missing from kj2000
-             Numbers   9: lxx has  22 verses but kj2000 has  23 verse
-             Numbers  12: lxx has  15 verses but kj2000 has  16 verse
-             Numbers  13: lxx has  34 verses but kj2000 has  33 verse
-             Numbers  29: lxx has  39 verses but kj2000 has  40 verse
-             Numbers  30: lxx has  17 verses but kj2000 has  16 verse
-        Ecclesiastes   4: lxx has  17 verses but kj2000 has  16 verse
-        Ecclesiastes   5: lxx has  19 verses but kj2000 has  20 verse
-        Ecclesiastes   6: lxx has  11 verses but kj2000 has  12 verse
-        Ecclesiastes   7: lxx has  30 verses but kj2000 has  29 verse
+                Amos   6: lxx has  15 verse(s) but kj2000 has  14 verse(s)
+            Proverbs   4: lxx has  26 verse(s) but kj2000 has  27 verse(s)
+            Proverbs  13: lxx has  24 verse(s) but kj2000 has  25 verse(s)
+            Proverbs  15: lxx has  31 verse(s) but kj2000 has  33 verse(s)
+            Proverbs  16: lxx has  26 verse(s) but kj2000 has  33 verse(s)
+            Proverbs  18: lxx has  22 verse(s) but kj2000 has  24 verse(s)
+            Proverbs  19: lxx has  27 verse(s) but kj2000 has  29 verse(s)
+            Proverbs  20: lxx has  24 verse(s) but kj2000 has  30 verse(s)
+            Proverbs  21: lxx has  30 verse(s) but kj2000 has  31 verse(s)
+            Proverbs  22: lxx has  28 verse(s) but kj2000 has  29 verse(s)
+            Proverbs  23: lxx has  34 verse(s) but kj2000 has  35 verse(s)
+        Ecclesiastes   4: lxx has  17 verse(s) but kj2000 has  16 verse(s)
+        Ecclesiastes   5: lxx has  19 verse(s) but kj2000 has  20 verse(s)
+        Ecclesiastes   6: lxx has  11 verse(s) but kj2000 has  12 verse(s)
+        Ecclesiastes   7: lxx has  30 verse(s) but kj2000 has  29 verse(s)
+              Daniel   3: lxx has  33 verse(s) but kj2000 has  30 verse(s)
+              Daniel   4: lxx has  34 verse(s) but kj2000 has  37 verse(s)
+           Leviticus   6: lxx has  40 verse(s) but kj2000 has  30 verse(s)
+           Leviticus   7: lxx has  28 verse(s) but kj2000 has  38 verse(s)
+         Deuteronomy  14: lxx has  28 verse(s) but kj2000 has  29 verse(s)
+         Deuteronomy  23: lxx has  23 verse(s) but kj2000 has  25 verse(s)
+         Deuteronomy  24: lxx has  24 verse(s) but kj2000 has  22 verse(s)
+         Deuteronomy  31: lxx has  29 verse(s) but kj2000 has  30 verse(s)
+             Numbers   9: lxx has  22 verse(s) but kj2000 has  23 verse(s)
+             Numbers  12: lxx has  15 verse(s) but kj2000 has  16 verse(s)
+             Numbers  13: lxx has  34 verse(s) but kj2000 has  33 verse(s)
+             Numbers  29: lxx has  39 verse(s) but kj2000 has  40 verse(s)
+             Numbers  30: lxx has  17 verse(s) but kj2000 has  16 verse(s)
+              Esther   4: lxx has  16 verse(s) but kj2000 has  17 verse(s)
+              Esther   9: lxx has  30 verse(s) but kj2000 has  32 verse(s)
+              Judges   5: lxx has  32 verse(s) but kj2000 has  31 verse(s)
+              Joshua   5: lxx has  16 verse(s) but kj2000 has  15 verse(s)
+              Joshua   8: lxx has  33 verse(s) but kj2000 has  35 verse(s)
+              Joshua   9: lxx has  30 verse(s) but kj2000 has  27 verse(s)
+              Joshua  10: lxx has  41 verse(s) but kj2000 has  43 verse(s)
+              Joshua  13: lxx has  32 verse(s) but kj2000 has  33 verse(s)
+              Joshua  20: lxx has   6 verse(s) but kj2000 has   9 verse(s)
+              Joshua  21: lxx has  43 verse(s) but kj2000 has  45 verse(s)
+              Exodus  28: lxx has  39 verse(s) but kj2000 has  43 verse(s)
+              Exodus  36: lxx has  40 verse(s) but kj2000 has  38 verse(s)
+              Exodus  37: lxx has  21 verse(s) but kj2000 has  29 verse(s)
+              Exodus  38: lxx has  27 verse(s) but kj2000 has  31 verse(s)
+              Exodus  39: lxx has  23 verse(s) but kj2000 has  43 verse(s)
+              Exodus  40: lxx has  31 verse(s) but kj2000 has  38 verse(s)

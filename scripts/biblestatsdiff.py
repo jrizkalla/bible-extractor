@@ -55,8 +55,8 @@ def main(stat1_fn, stat2_fn, name1, name2):
             try:
                 if stat1[book][chap_name] != stat2[book][chap_name]:
                     print(f"{book:>20} {chap:3}: {name1} has "
-                            f"{stat1[book][chap_name]:3} verses but {name2} "
-                            f"has {stat2[book][chap_name]:3} verse")
+                            f"{stat1[book][chap_name]:3} verse(s) but {name2} "
+                            f"has {stat2[book][chap_name]:3} verse(s)")
             except KeyError:
                 # chapter not in one of them
                 name = name2 if chap_name in stat1[book] else name1
