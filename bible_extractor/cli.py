@@ -17,7 +17,12 @@ from .stats import get_bible_stats
 from .merge import merge
 from . import functions
 
-FUNCTIONS = functions.__all__
+def check(bible: Bible) -> Bible:
+    """Run all checks on the bible."""
+    return functions.check_lengths(bible)
+
+FUNCTIONS = list(functions.__all__) + [ check ]
+del check
 
 ARG_PARSER = ArgumentParser(description="Extract The Bible from specific sources online")
 ARG_PARSER.add_argument("source", nargs="+",

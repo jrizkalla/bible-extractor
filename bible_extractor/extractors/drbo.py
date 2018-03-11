@@ -5,6 +5,7 @@ from collections import OrderedDict
 
 import requests as http
 from bs4 import BeautifulSoup
+from roman import toRoman as to_roman
 
 from ..extract import extractor, Url
 from ..bible import Bible, Verse, Testament
@@ -12,6 +13,22 @@ from ..progress import ProgressIndicator
 from .. import warnings as warn
 
 _VERSE_REGEX = re.compile("\s*\[\s*(\d+)\s*\]\s*")
+
+def _fix_book_name(name: str) -> str:
+    """
+    Convert <number> <name> to <name> <number in roman numerals>
+
+    >>> _fix_book_name("3 Kings")
+    'Kings III'
+    
+    """
+    try:
+        num_str, name = name.split(" ")
+        num = int(num_str)
+    except ValueError: return name
+    return f"{name} {to_roman(num)}"
+    
+    
 
 @extractor("http://www.drbo.org/")
 def drbo(url: Url) -> Bible:
@@ -63,7 +80,7 @@ def drbo(url: Url) -> Bible:
                             f"Found chapter {num} twice",
                             warn.multiple_chapters)
                     continue
-                chapter_links[num] = next_chap_url
+                chapter_links[num] = urljoin(urljoin(url, "chapter/"), next_chap_url)
                 
             for chap_num, chap_path in chapter_links.items():
                 log.info(f"Extracting chapter {chap_num}/{len(chapter_links)}")
@@ -96,10 +113,10 @@ def drbo(url: Url) -> Bible:
                         text = []
                         a_tag = a_tag.next_sibling
                         while a_tag is not None and a_tag.name != "a":
-                            text += a_tag.string.strip()
+                            text.append(a_tag.string.strip())
                             a_tag = a_tag.next_sibling
                         text = " ".join(text)
-                        bible += Verse(Verse.Loc(name, chap_num, verse_num, testament),
-                                text)
+                        bible += Verse(Verse.Loc(
+                            _fix_book_name(name), chap_num, verse_num, testament), text)
     return bible
 
