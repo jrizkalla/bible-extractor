@@ -1,6 +1,10 @@
 [
     {
         "num_warnings": 1,
+        "num_books": [
+            39,
+            27
+        ],
         "num_verses_per_chapter": {
             "old": {
                 "Genesis": {
@@ -1327,10 +1331,6 @@
                     "22": 21
                 }
             }
-        },
-        "num_books": [
-            39,
-            27
-        ]
+        }
     }
 ]

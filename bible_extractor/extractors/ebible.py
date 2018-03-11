@@ -67,7 +67,8 @@ def ebible_extractor(url: Url) -> Bible:
     for (book, div), chapters in sections.items():
         for chap_code in chapters:
             chap_count += 1
-            log.info(f"({chap_count*100 // num_chapters:3}%) Extracting chapter {chap_code} in {book}")
+            log.info(f"({chap_count*100 // num_chapters:3}%) Extracting chapter "
+                    f"{chap_code} in {book} (corrected: {fix_book_name(book)})")
             # get the chapter number
             try:
                 # the chapter name sometimes ends with a numbers (e.g. Kings 1)

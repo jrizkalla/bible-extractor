@@ -1,4 +1,4 @@
-all: lxx vulgate kj2000 merged log
+all: lxx vulgate kj2000 merged diff
 
 lxx:
 	cd .. && python3 -m bible_extractor 0:check -o extracted_data/lxx.json -s extracted_data/lxx-stat.json --force > extracted_data/log/lxx.log 2>&1
@@ -19,5 +19,11 @@ merged:
 	# check the merge
 	cd .. && python3 -m bible_extractor extracted_data/merged.json:check -o /dev/null >> extracted_data/log/merged.log 2>&1
 
+diff:
+	cd .. && python3 ./scripts/biblestatsdiff.py\
+		extracted_data/lxx-stat.json\
+		extracted_data/kj2000-stat.json\
+		--name1 LXX --name2 KJ2000 > extracted_data/diff/lxx-kj2000.txt
 
-.PHONY: all lxx
+
+.PHONY: all lxx vulgate kj2000 merged diff

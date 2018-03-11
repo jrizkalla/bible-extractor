@@ -13,8 +13,9 @@ def fix_book_name(name: str) -> str:
     'Kings III'
     
     """
+    name = name.strip()
     try:
-        num_str, name = name.split(" ")
+        num_str, partial_name = name.split(" ")
         num = int(num_str)
     except ValueError: return name
-    return f"{name} {to_roman(num)}"
+    return f"{partial_name} {to_roman(num)}"

@@ -24,20 +24,24 @@ def main(stat1_fn, stat2_fn, name1, name2):
         stat2 = json.load(stat2_f)[0]["num_verses_per_chapter"]
     
     # compare them
-    books1 = set(stat1["old"]).union(
-            set(stat1["new"]))
-    books2 = set(stat2["old"]).union(
-            set(stat2["new"]))
+    books1_old = set(stat1["old"])
+    books1_new = set(stat1["new"])
+    books2_old = set(stat2["old"])
+    books2_new = set(stat2["new"])
+    books1 = books1_old.union(books1_new)
+    books2 = books2_old.union(books2_new)
     
     print("Books:")
     b1_b2 = books1 - books2
     b2_b1 = books2 - books1
     print(f"{name1} has {len(b1_b2)} books not in {name2}:")
     for b in b1_b2:
-        print(f"\t- {b}")
+        test = "OT" if b in books1_old else "NT"
+        print(f"\t- ({test})  {b}")
     print(f"{name2} has {len(b2_b1)} books not in {name1}:")
     for b in b2_b1:
-        print(f"\t- {b}")
+        test = "OT" if b in books2_old else "NT"
+        print(f"\t- ({test}) {b}")
     print()
         
     books = books1.intersection(books2)
