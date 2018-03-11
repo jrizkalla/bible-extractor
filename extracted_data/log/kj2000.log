@@ -1,0 +1,1192 @@
+INFO:bible_extractor.cli.main:Source '3' is 'http://biblehub.com/kj2000/'
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 1 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 2 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 3 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 4 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 5 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 6 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 7 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 8 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 9 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 10 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 11 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  0%] [starting]  Processing chapter 12 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 13 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 14 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 15 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 16 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 17 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 18 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 19 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 20 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 21 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 22 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 23 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  1%] [starting]  Processing chapter 24 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 25 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 26 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 27 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 28 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 29 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 30 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 31 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 32 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 33 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 34 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 35 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  2%] [starting]  Processing chapter 36 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 37 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 38 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 39 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 40 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 41 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 42 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 43 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 44 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 45 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 46 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 47 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  3%] [starting]  Processing chapter 48 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 49 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 50 in Genesis
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 1 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 2 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 3 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 4 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 5 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 6 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 7 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 8 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 9 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  4%] [starting]  Processing chapter 10 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 11 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 12 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 13 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 14 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 15 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 16 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 17 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 18 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 19 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 20 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 21 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  5%] [starting]  Processing chapter 22 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 23 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 24 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 25 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 26 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 27 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 28 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 29 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 30 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 31 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 32 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 33 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  6%] [starting]  Processing chapter 34 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 35 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 36 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 37 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 38 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 39 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 40 in Exodus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 1 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 2 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 3 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 4 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 5 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  7%] [starting]  Processing chapter 6 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 7 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 8 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 9 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 10 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 11 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 12 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 13 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 14 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 15 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 16 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 17 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  8%] [starting]  Processing chapter 18 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 19 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 20 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 21 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 22 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 23 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 24 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 25 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 26 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 27 in Leviticus
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 1 in Numbers
+INFO:bible_extractor.extractors.biblehub:[  9%] [starting]  Processing chapter 2 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 3 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 4 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 5 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 6 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 7 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 8 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 9 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 10 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 11 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 12 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 13 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 10%] [starting]  Processing chapter 14 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 15 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 16 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 17 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 18 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 19 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 20 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 21 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 22 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 23 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 24 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 25 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 11%] [starting]  Processing chapter 26 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 27 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 28 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 29 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 30 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 31 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 32 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 33 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 34 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 35 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 36 in Numbers
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 1 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 12%] [starting]  Processing chapter 2 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 3 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 4 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 5 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 6 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 7 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 8 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 9 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 10 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 11 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 12 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 13 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 13%] [starting]  Processing chapter 14 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 15 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 16 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 17 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 18 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 19 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 20 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 21 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 22 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 23 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 24 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 25 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 14%] [starting]  Processing chapter 26 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 27 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 28 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 29 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 30 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 31 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 32 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 33 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 34 in Deuteronomy
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 1 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 2 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 3 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 15%] [starting]  Processing chapter 4 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 5 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 6 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 7 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 8 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 9 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 10 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 11 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 12 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 13 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 14 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 15 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 16%] [starting]  Processing chapter 16 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 17 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 18 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 19 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 20 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 21 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 22 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 23 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 24 in Joshua
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 1 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 2 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 3 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 17%] [starting]  Processing chapter 4 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 5 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 6 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 7 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 8 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 9 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 10 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 11 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 12 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 13 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 14 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 18%] [starting]  Processing chapter 15 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 16 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 17 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 18 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 19 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 20 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 21 in Judges
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 1 in Ruth
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 2 in Ruth
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 3 in Ruth
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 4 in Ruth
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 1 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 19%] [starting]  Processing chapter 2 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 3 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 4 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 5 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 6 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 7 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 8 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 9 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 10 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 11 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 12 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 13 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 20%] [starting]  Processing chapter 14 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 15 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 16 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 17 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 18 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 19 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 20 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 21 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 22 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 23 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 24 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 25 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 21%] [starting]  Processing chapter 26 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 27 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 28 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 29 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 30 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 31 in 1 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 1 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 2 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 3 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 4 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 5 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 6 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 22%] [starting]  Processing chapter 7 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 8 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 9 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 10 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 11 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 12 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 13 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 14 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 15 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 16 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 17 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 18 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 23%] [starting]  Processing chapter 19 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 20 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 21 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 22 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 23 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 24 in 2 Samuel
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 1 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 2 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 3 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 4 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 5 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 6 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 24%] [starting]  Processing chapter 7 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 8 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 9 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 10 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 11 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 12 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 13 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 14 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 15 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 16 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 17 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 18 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 25%] [starting]  Processing chapter 19 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 20 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 21 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 22 in 1 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 1 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 2 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 3 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 4 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 5 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 6 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 7 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 8 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 26%] [starting]  Processing chapter 9 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 10 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 11 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 12 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 13 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 14 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 15 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 16 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 17 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 18 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 19 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 27%] [starting]  Processing chapter 20 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 21 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 22 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 23 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 24 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 25 in 2 Kings
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 1 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 2 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 3 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 4 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 5 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 6 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 28%] [starting]  Processing chapter 7 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 8 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 9 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 10 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 11 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 12 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 13 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 14 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 15 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 16 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 17 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 18 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 29%] [starting]  Processing chapter 19 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 20 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 21 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 22 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 23 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 24 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 25 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 26 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 27 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 28 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 29 in 1 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 1 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 30%] [starting]  Processing chapter 2 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 3 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 4 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 5 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 6 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 7 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 8 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 9 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 10 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 11 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 12 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 13 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 31%] [starting]  Processing chapter 14 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 15 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 16 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 17 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 18 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 19 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 20 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 21 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 22 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 23 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 24 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 25 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 32%] [starting]  Processing chapter 26 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 27 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 28 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 29 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 30 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 31 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 32 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 33 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 34 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 35 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 36 in 2 Chronicles
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 1 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 33%] [starting]  Processing chapter 2 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 3 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 4 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 5 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 6 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 7 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 8 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 9 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 10 in Ezra
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 1 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 2 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 3 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 34%] [starting]  Processing chapter 4 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 5 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 6 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 7 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 8 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 9 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 10 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 11 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 12 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 13 in Nehemiah
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 1 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 2 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 35%] [starting]  Processing chapter 3 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 4 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 5 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 6 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 7 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 8 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 9 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 10 in Esther
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 1 in Job
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 2 in Job
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 3 in Job
+INFO:bible_extractor.extractors.biblehub:[ 36%] [starting]  Processing chapter 4 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 5 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 6 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 7 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 8 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 9 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 10 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 11 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 12 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 13 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 14 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 15 in Job
+INFO:bible_extractor.extractors.biblehub:[ 37%] [starting]  Processing chapter 16 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 17 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 18 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 19 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 20 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 21 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 22 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 23 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 24 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 25 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 26 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 27 in Job
+INFO:bible_extractor.extractors.biblehub:[ 38%] [starting]  Processing chapter 28 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 29 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 30 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 31 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 32 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 33 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 34 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 35 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 36 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 37 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 38 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 39 in Job
+INFO:bible_extractor.extractors.biblehub:[ 39%] [starting]  Processing chapter 40 in Job
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 41 in Job
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 42 in Job
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 1 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 2 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 3 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 4 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 5 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 6 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 7 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 8 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 9 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 40%] [starting]  Processing chapter 10 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 11 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 12 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 13 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 14 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 15 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 16 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 17 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 18 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 19 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 20 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 21 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 41%] [starting]  Processing chapter 22 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 23 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 24 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 25 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 26 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 27 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 28 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 29 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 30 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 31 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 32 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 33 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 42%] [starting]  Processing chapter 34 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 35 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 36 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 37 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 38 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 39 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 40 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 41 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 42 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 43 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 44 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 45 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 43%] [starting]  Processing chapter 46 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 47 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 48 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 49 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 50 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 51 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 52 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 53 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 54 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 55 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 56 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 57 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 44%] [starting]  Processing chapter 58 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 59 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 60 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 61 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 62 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 63 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 64 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 65 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 66 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 67 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 68 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 45%] [starting]  Processing chapter 69 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 70 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 71 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 72 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 73 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 74 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 75 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 76 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 77 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 78 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 79 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 80 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 46%] [starting]  Processing chapter 81 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 82 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 83 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 84 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 85 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 86 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 87 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 88 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 89 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 90 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 91 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 92 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 47%] [starting]  Processing chapter 93 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 94 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 95 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 96 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 97 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 98 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 99 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 100 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 101 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 102 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 103 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 104 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 48%] [starting]  Processing chapter 105 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 106 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 107 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 108 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 109 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 110 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 111 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 112 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 113 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 114 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 115 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 116 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 49%] [starting]  Processing chapter 117 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 118 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 119 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 120 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 121 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 122 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 123 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 124 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 125 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 126 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 127 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 128 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 50%] [starting]  Processing chapter 129 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 130 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 131 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 132 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 133 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 134 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 135 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 136 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 137 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 138 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 139 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 140 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 51%] [starting]  Processing chapter 141 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 142 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 143 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 144 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 145 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 146 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 147 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 148 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 149 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 150 in Psalms
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 1 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 2 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 52%] [starting]  Processing chapter 3 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 4 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 5 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 6 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 7 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 8 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 9 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 10 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 11 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 12 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 13 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 14 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 53%] [starting]  Processing chapter 15 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 16 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 17 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 18 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 19 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 20 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 21 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 22 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 23 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 24 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 25 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 54%] [starting]  Processing chapter 26 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 27 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 28 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 29 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 30 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 31 in Proverbs
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 1 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 2 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 3 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 4 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 5 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 6 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 55%] [starting]  Processing chapter 7 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 8 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 9 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 10 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 11 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 12 in Ecclesiastes
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 1 in Songs
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 2 in Songs
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 3 in Songs
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 4 in Songs
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 5 in Songs
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 6 in Songs
+INFO:bible_extractor.extractors.biblehub:[ 56%] [starting]  Processing chapter 7 in Songs
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 8 in Songs
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 1 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 2 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 3 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 4 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 5 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 6 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 7 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 8 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 9 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 10 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 57%] [starting]  Processing chapter 11 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 12 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 13 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 14 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 15 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 16 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 17 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 18 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 19 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 20 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 21 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 22 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 58%] [starting]  Processing chapter 23 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 24 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 25 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 26 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 27 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 28 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 29 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 30 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 31 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 32 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 33 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 34 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 59%] [starting]  Processing chapter 35 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 36 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 37 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 38 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 39 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 40 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 41 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 42 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 43 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 44 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 45 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 46 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 60%] [starting]  Processing chapter 47 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 48 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 49 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 50 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 51 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 52 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 53 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 54 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 55 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 56 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 57 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 58 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 61%] [starting]  Processing chapter 59 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 60 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 61 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 62 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 63 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 64 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 65 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 66 in Isaiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 1 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 2 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 3 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 4 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 62%] [starting]  Processing chapter 5 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 6 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 7 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 8 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 9 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 10 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 11 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 12 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 13 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 14 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 15 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 63%] [starting]  Processing chapter 16 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 17 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 18 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 19 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 20 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 21 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 22 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 23 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 24 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 25 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 26 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 27 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 64%] [starting]  Processing chapter 28 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 29 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 30 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 31 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 32 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 33 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 34 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 35 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 36 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 37 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 38 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 39 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 65%] [starting]  Processing chapter 40 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 41 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 42 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 43 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 44 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 45 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 46 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 47 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 48 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 49 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 50 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 51 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 66%] [starting]  Processing chapter 52 in Jeremiah
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 1 in Lamentations
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 2 in Lamentations
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 3 in Lamentations
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 4 in Lamentations
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 5 in Lamentations
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 1 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 2 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 3 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 4 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 5 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 6 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 67%] [starting]  Processing chapter 7 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 8 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 9 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 10 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 11 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 12 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 13 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 14 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 15 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 16 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 17 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 18 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 68%] [starting]  Processing chapter 19 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 20 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 21 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 22 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 23 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 24 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 25 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 26 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 27 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 28 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 29 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 30 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 69%] [starting]  Processing chapter 31 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 32 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 33 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 34 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 35 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 36 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 37 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 38 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 39 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 40 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 41 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 42 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 70%] [starting]  Processing chapter 43 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 44 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 45 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 46 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 47 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 48 in Ezekiel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 1 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 2 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 3 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 4 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 5 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 6 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 71%] [starting]  Processing chapter 7 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 8 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 9 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 10 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 11 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 12 in Daniel
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 1 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 2 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 3 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 4 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 5 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 72%] [starting]  Processing chapter 6 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 7 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 8 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 9 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 10 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 11 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 12 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 13 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 14 in Hosea
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 1 in Joel
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 2 in Joel
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 3 in Joel
+INFO:bible_extractor.extractors.biblehub:[ 73%] [starting]  Processing chapter 1 in Amos
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 2 in Amos
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 3 in Amos
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 4 in Amos
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 5 in Amos
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 6 in Amos
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 7 in Amos
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 8 in Amos
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 9 in Amos
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 1 in Obadiah
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 1 in Jonah
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 2 in Jonah
+INFO:bible_extractor.extractors.biblehub:[ 74%] [starting]  Processing chapter 3 in Jonah
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 4 in Jonah
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 1 in Micah
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 2 in Micah
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 3 in Micah
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 4 in Micah
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 5 in Micah
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 6 in Micah
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 7 in Micah
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 1 in Nahum
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 2 in Nahum
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 3 in Nahum
+INFO:bible_extractor.extractors.biblehub:[ 75%] [starting]  Processing chapter 1 in Habakkuk
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 2 in Habakkuk
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 3 in Habakkuk
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 1 in Zephaniah
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 2 in Zephaniah
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 3 in Zephaniah
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 1 in Haggai
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 2 in Haggai
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 1 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 2 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 3 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 4 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 76%] [starting]  Processing chapter 5 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 6 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 7 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 8 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 9 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 10 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 11 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 12 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 13 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 14 in Zechariah
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 1 in Malachi
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 2 in Malachi
+INFO:bible_extractor.extractors.biblehub:[ 77%] [starting]  Processing chapter 3 in Malachi
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 4 in Malachi
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 1 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 2 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 3 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 4 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 5 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 6 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 7 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 8 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 9 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 10 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 78%] [starting]  Processing chapter 11 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 12 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 13 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 14 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 15 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 16 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 17 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 18 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 19 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 20 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 21 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 22 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 79%] [starting]  Processing chapter 23 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 24 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 25 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 26 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 27 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 28 in Matthew
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 1 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 2 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 3 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 4 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 5 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 6 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 80%] [starting]  Processing chapter 7 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 8 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 9 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 10 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 11 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 12 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 13 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 14 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 15 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 16 in Mark
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 1 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 81%] [starting]  Processing chapter 2 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 3 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 4 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 5 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 6 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 7 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 8 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 9 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 10 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 11 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 12 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 13 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 82%] [starting]  Processing chapter 14 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 15 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 16 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 17 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 18 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 19 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 20 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 21 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 22 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 23 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 24 in Luke
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 1 in John
+INFO:bible_extractor.extractors.biblehub:[ 83%] [starting]  Processing chapter 2 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 3 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 4 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 5 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 6 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 7 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 8 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 9 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 10 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 11 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 12 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 13 in John
+INFO:bible_extractor.extractors.biblehub:[ 84%] [starting]  Processing chapter 14 in John
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 15 in John
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 16 in John
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 17 in John
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 18 in John
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 19 in John
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 20 in John
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 21 in John
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 1 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 2 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 3 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 4 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 85%] [starting]  Processing chapter 5 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 6 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 7 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 8 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 9 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 10 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 11 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 12 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 13 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 14 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 15 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 16 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 86%] [starting]  Processing chapter 17 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 18 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 19 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 20 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 21 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 22 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 23 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 24 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 25 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 26 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 27 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 28 in Acts
+INFO:bible_extractor.extractors.biblehub:[ 87%] [starting]  Processing chapter 1 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 2 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 3 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 4 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 5 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 6 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 7 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 8 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 9 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 10 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 11 in Romans
+WARNING:bible_extractor.bible:Romans 11: Unable to find verse number
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 12 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 88%] [starting]  Processing chapter 13 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 14 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 15 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 16 in Romans
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 1 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 2 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 3 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 4 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 5 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 6 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 7 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 8 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 89%] [starting]  Processing chapter 9 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 10 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 11 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 12 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 13 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 14 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 15 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 16 in 1 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 1 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 2 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 3 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 90%] [starting]  Processing chapter 4 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 5 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 6 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 7 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 8 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 9 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 10 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 11 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 12 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 13 in 2 Corinthians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 1 in Galatians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 2 in Galatians
+INFO:bible_extractor.extractors.biblehub:[ 91%] [starting]  Processing chapter 3 in Galatians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 4 in Galatians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 5 in Galatians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 6 in Galatians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 1 in Ephesians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 2 in Ephesians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 3 in Ephesians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 4 in Ephesians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 5 in Ephesians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 6 in Ephesians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 1 in Philippians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 2 in Philippians
+INFO:bible_extractor.extractors.biblehub:[ 92%] [starting]  Processing chapter 3 in Philippians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 4 in Philippians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 1 in Colossians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 2 in Colossians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 3 in Colossians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 4 in Colossians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 1 in 1 Thessalonians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 2 in 1 Thessalonians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 3 in 1 Thessalonians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 4 in 1 Thessalonians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 5 in 1 Thessalonians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 1 in 2 Thessalonians
+INFO:bible_extractor.extractors.biblehub:[ 93%] [starting]  Processing chapter 2 in 2 Thessalonians
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 3 in 2 Thessalonians
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 1 in 1 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 2 in 1 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 3 in 1 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 4 in 1 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 5 in 1 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 6 in 1 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 1 in 2 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 2 in 2 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 3 in 2 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 4 in 2 Timothy
+INFO:bible_extractor.extractors.biblehub:[ 94%] [starting]  Processing chapter 1 in Titus
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 2 in Titus
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 3 in Titus
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 1 in Philemon
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 1 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 2 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 3 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 4 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 5 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 6 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 7 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 8 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 95%] [starting]  Processing chapter 9 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 10 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 11 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 12 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 13 in Hebrews
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 1 in James
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 2 in James
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 3 in James
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 4 in James
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 5 in James
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 1 in 1 Peter
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 2 in 1 Peter
+INFO:bible_extractor.extractors.biblehub:[ 96%] [starting]  Processing chapter 3 in 1 Peter
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 4 in 1 Peter
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 5 in 1 Peter
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 1 in 2 Peter
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 2 in 2 Peter
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 3 in 2 Peter
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 1 in 1 John
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 2 in 1 John
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 3 in 1 John
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 4 in 1 John
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 5 in 1 John
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 1 in 2 John
+INFO:bible_extractor.extractors.biblehub:[ 97%] [starting]  Processing chapter 1 in 3 John
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 1 in Jude
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 1 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 2 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 3 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 4 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 5 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 6 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 7 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 8 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 9 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 10 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 98%] [starting]  Processing chapter 11 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 12 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 13 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 14 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 15 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 16 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 17 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 18 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 19 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 20 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 21 in Revelation
+INFO:bible_extractor.extractors.biblehub:[ 99%] [starting]  Processing chapter 22 in Revelation
+INFO:bible_extractor.cli.main:Applying 'check' to 'King James 2000'
