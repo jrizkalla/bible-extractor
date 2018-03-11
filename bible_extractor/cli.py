@@ -40,6 +40,7 @@ ARG_PARSER.add_argument("-f", "--format",
 ARG_PARSER.add_argument("-s", "--stats", metavar="FILE", help="Output the statistics of the bible in FILE")
 ARG_PARSER.add_argument("-v", "--verbose", help="Increase verbosity level",
         action="count")
+ARG_PARSER.add_argument("--force", action="store_true", help="Don't give override warnings.")
 
 def _print_list():
     print("Sources")
@@ -148,7 +149,7 @@ def main(args=None):
         src_is_url.append(is_url)
         src_funcs.append(funcs)
         
-    if path.exists(args.output) and args.output != "/dev/null":
+    if path.exists(args.output) and args.output != "/dev/null" and not args.force:
         answer = input(f"The file '{args.output}' exists. "
                 "Do you want to override it? (y/n) ")
         answer = answer.lower()
