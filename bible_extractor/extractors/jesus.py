@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from ..extract import extractor, Url
 from ..bible import Bible, Verse, Testament
 from ..progress import ProgressIndicator
+from ..util import fix_book_name
 
 
 _CHAPTER_NAME_REGEX = re.compile(r"^\s*CHAPTER\s+\d+\s*$")
@@ -76,7 +77,7 @@ def jesus_is_lord_extractor(url: Url) -> Bible:
                     for split in split_verses if _DIGIT_REGEX.match(split[0])):
                 test = (Testament.old 
                         if book_name in old_test_names else Testament.new)
-                bible += Verse(Verse.Loc(book_name, chapter_idx+1, verse_idx+1, test),
+                bible += Verse(Verse.Loc(fix_bible_name(book_name), chapter_idx+1, verse_idx+1, test),
                         " ".join(split[1:]))
                         
                 

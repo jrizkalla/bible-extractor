@@ -260,7 +260,7 @@ INFO:bible_extractor.extractors.ebible:( 22%) Extracting chapter S110 in Kings I
 INFO:bible_extractor.extractors.ebible:( 22%) Extracting chapter S111 in Kings I
 INFO:bible_extractor.extractors.ebible:( 22%) Extracting chapter S112 in Kings I
 INFO:bible_extractor.extractors.ebible:( 22%) Extracting chapter S113 in Kings I
-WARNING:bible_extractor.bible:Kings I 13:1: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:I 13:1: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 22%) Extracting chapter S114 in Kings I
 INFO:bible_extractor.extractors.ebible:( 22%) Extracting chapter S115 in Kings I
 INFO:bible_extractor.extractors.ebible:( 22%) Extracting chapter S116 in Kings I
@@ -307,33 +307,33 @@ INFO:bible_extractor.extractors.ebible:( 26%) Extracting chapter K11 in Kings II
 INFO:bible_extractor.extractors.ebible:( 26%) Extracting chapter K12 in Kings III
 INFO:bible_extractor.extractors.ebible:( 26%) Extracting chapter K13 in Kings III
 INFO:bible_extractor.extractors.ebible:( 26%) Extracting chapter K14 in Kings III
-WARNING:bible_extractor.bible:Kings III 4:24: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 4:24: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 26%) Extracting chapter K15 in Kings III
 INFO:bible_extractor.extractors.ebible:( 26%) Extracting chapter K16 in Kings III
-WARNING:bible_extractor.bible:Kings III 6:10: Found bible range. Merging into the first verse.
-WARNING:bible_extractor.bible:Kings III 6:17: Found bible range. Merging into the first verse.
-WARNING:bible_extractor.bible:Kings III 6:21: Found bible range. Merging into the first verse.
-WARNING:bible_extractor.bible:Kings III 6:31: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 6:10: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 6:17: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 6:21: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 6:31: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 26%) Extracting chapter K17 in Kings III
-WARNING:bible_extractor.bible:Kings III 7:1: Found bible range. Merging into the first verse.
-WARNING:bible_extractor.bible:Kings III 7:20: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 7:1: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 7:20: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 26%) Extracting chapter K18 in Kings III
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K19 in Kings III
-WARNING:bible_extractor.bible:Kings III 9:14: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 9:14: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K110 in Kings III
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K111 in Kings III
-WARNING:bible_extractor.bible:Kings III 11:2: Found bible range. Merging into the first verse.
-WARNING:bible_extractor.bible:Kings III 11:6: Found bible range. Merging into the first verse.
-WARNING:bible_extractor.bible:Kings III 11:23: Found bible range. Merging into the first verse.
-WARNING:bible_extractor.bible:Kings III 11:38: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 11:2: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 11:6: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 11:23: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 11:38: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K112 in Kings III
-WARNING:bible_extractor.bible:Kings III 12:1: Found bible range. Merging into the first verse.
-WARNING:bible_extractor.bible:Kings III 12:16: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 12:1: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 12:16: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K113 in Kings III
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K114 in Kings III
-WARNING:bible_extractor.bible:Kings III 14:1: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 14:1: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K115 in Kings III
-WARNING:bible_extractor.bible:Kings III 15:5: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 15:5: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K116 in Kings III
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K117 in Kings III
 INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K118 in Kings III
@@ -341,7 +341,7 @@ INFO:bible_extractor.extractors.ebible:( 27%) Extracting chapter K119 in Kings I
 INFO:bible_extractor.extractors.ebible:( 28%) Extracting chapter K120 in Kings III
 INFO:bible_extractor.extractors.ebible:( 28%) Extracting chapter K121 in Kings III
 INFO:bible_extractor.extractors.ebible:( 28%) Extracting chapter K122 in Kings III
-WARNING:bible_extractor.bible:Kings III 22:46: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:III 22:46: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 28%) Extracting chapter K21 in Kings IV
 INFO:bible_extractor.extractors.ebible:( 28%) Extracting chapter K22 in Kings IV
 INFO:bible_extractor.extractors.ebible:( 28%) Extracting chapter K23 in Kings IV
@@ -368,8 +368,8 @@ INFO:bible_extractor.extractors.ebible:( 30%) Extracting chapter K223 in Kings I
 INFO:bible_extractor.extractors.ebible:( 30%) Extracting chapter K224 in Kings IV
 INFO:bible_extractor.extractors.ebible:( 30%) Extracting chapter K225 in Kings IV
 INFO:bible_extractor.extractors.ebible:( 30%) Extracting chapter R11 in Chronicles I
-WARNING:bible_extractor.bible:Chronicles I 1:10: Found bible range. Merging into the first verse.
-WARNING:bible_extractor.bible:Chronicles I 1:18: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:I 1:10: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:I 1:18: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 30%) Extracting chapter R12 in Chronicles I
 INFO:bible_extractor.extractors.ebible:( 30%) Extracting chapter R13 in Chronicles I
 INFO:bible_extractor.extractors.ebible:( 30%) Extracting chapter R14 in Chronicles I
@@ -401,7 +401,7 @@ INFO:bible_extractor.extractors.ebible:( 33%) Extracting chapter R129 in Chronic
 INFO:bible_extractor.extractors.ebible:( 33%) Extracting chapter R21 in Chronicles II
 INFO:bible_extractor.extractors.ebible:( 33%) Extracting chapter R22 in Chronicles II
 INFO:bible_extractor.extractors.ebible:( 33%) Extracting chapter R23 in Chronicles II
-WARNING:bible_extractor.bible:Chronicles II 3:11: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:II 3:11: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 33%) Extracting chapter R24 in Chronicles II
 INFO:bible_extractor.extractors.ebible:( 33%) Extracting chapter R25 in Chronicles II
 INFO:bible_extractor.extractors.ebible:( 33%) Extracting chapter R26 in Chronicles II
@@ -426,7 +426,7 @@ INFO:bible_extractor.extractors.ebible:( 35%) Extracting chapter R224 in Chronic
 INFO:bible_extractor.extractors.ebible:( 35%) Extracting chapter R225 in Chronicles II
 INFO:bible_extractor.extractors.ebible:( 35%) Extracting chapter R226 in Chronicles II
 INFO:bible_extractor.extractors.ebible:( 35%) Extracting chapter R227 in Chronicles II
-WARNING:bible_extractor.bible:Chronicles II 27:7: Found bible range. Merging into the first verse.
+WARNING:bible_extractor.bible:II 27:7: Found bible range. Merging into the first verse.
 INFO:bible_extractor.extractors.ebible:( 35%) Extracting chapter R228 in Chronicles II
 INFO:bible_extractor.extractors.ebible:( 35%) Extracting chapter R229 in Chronicles II
 INFO:bible_extractor.extractors.ebible:( 35%) Extracting chapter R230 in Chronicles II
@@ -1154,8 +1154,8 @@ INFO:bible_extractor.extractors.ebible:( 99%) Extracting chapter M416 in 4 Macca
 INFO:bible_extractor.extractors.ebible:( 99%) Extracting chapter M417 in 4 Maccabees
 INFO:bible_extractor.extractors.ebible:( 99%) Extracting chapter M418 in 4 Maccabees
 INFO:bible_extractor.cli.main:Applying 'check' to 'Septuagint in American English'
-WARNING:check_lengths:Kings III 7:1 is small
-WARNING:check_lengths:Kings III 14:1 is small
-WARNING:check_lengths:Chronicles I 1:27 is small
+WARNING:check_lengths:I 1:27 is small
+WARNING:check_lengths:III 7:1 is small
+WARNING:check_lengths:III 14:1 is small
 WARNING:check_lengths:Nehemiah 12:3 is small
 WARNING:check_lengths:Job 3:2 is small

@@ -5,30 +5,15 @@ from collections import OrderedDict
 
 import requests as http
 from bs4 import BeautifulSoup
-from roman import toRoman as to_roman
 
 from ..extract import extractor, Url
 from ..bible import Bible, Verse, Testament
 from ..progress import ProgressIndicator
 from .. import warnings as warn
+from ..util import fix_book_name
 
 _VERSE_REGEX = re.compile("\s*\[\s*(\d+)\s*\]\s*")
 
-def _fix_book_name(name: str) -> str:
-    """
-    Convert <number> <name> to <name> <number in roman numerals>
-
-    >>> _fix_book_name("3 Kings")
-    'Kings III'
-    
-    """
-    try:
-        num_str, name = name.split(" ")
-        num = int(num_str)
-    except ValueError: return name
-    return f"{name} {to_roman(num)}"
-    
-    
 
 @extractor("http://www.drbo.org/")
 def drbo(url: Url) -> Bible:
@@ -70,13 +55,13 @@ def drbo(url: Url) -> Bible:
                 try:
                     num = int(a_tag.string.strip(), base=10)
                 except ValueError:
-                    bible.warn(Verse.Loc(name, -1, -1, testament), 
+                    bible.warn(Verse.Loc(fix_book_name(name), -1, -1, testament), 
                             f"Unknown verse number {a.string.strip()}",
                             warn.unknown_verse_num)
                     continue
                 
                 if num in chapter_links:
-                    bible.warn(Verse.Loc(name, num, -1, testament),
+                    bible.warn(Verse.Loc(fix_book_name(name), num, -1, testament),
                             f"Found chapter {num} twice",
                             warn.multiple_chapters)
                     continue
@@ -95,7 +80,7 @@ def drbo(url: Url) -> Bible:
                     try:
                         a_tag = para.select("a")[0]
                     except IndexError:
-                        bible.warn(Verse.Loc(name, chap_num, -1, testament),
+                        bible.warn(Verse.Loc(fix_book_name(name), chap_num, -1, testament),
                                 "Empty paragraph",
                                 warn.empty_verse)
                         continue
@@ -106,7 +91,7 @@ def drbo(url: Url) -> Bible:
                                     base=10)
                         except (AttributeError, ValueError):
                             import pdb; pdb.set_trace()
-                            bible.warn(Verse.Loc(name, chap_num, -1, testament),
+                            bible.warn(Verse.Loc(fix_book_name(name), chap_num, -1, testament),
                                     f"Unable to get verse number from '{a_tag.string}'")
                             a_tag = a_tag.next_sibling.next_sibling
                             continue
@@ -117,6 +102,6 @@ def drbo(url: Url) -> Bible:
                             a_tag = a_tag.next_sibling
                         text = " ".join(text)
                         bible += Verse(Verse.Loc(
-                            _fix_book_name(name), chap_num, verse_num, testament), text)
+                            fix_book_name(name), chap_num, verse_num, testament), text)
     return bible
 

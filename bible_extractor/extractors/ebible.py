@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 
 from ..extract import extractor, Url
 from ..bible import Bible, Verse, Testament
+from ..util import fix_book_name
 from .. import warnings as warn
 
 # a blacklist of strings to replace
@@ -88,13 +89,13 @@ def ebible_extractor(url: Url) -> Bible:
                 try:
                     verse_match = next(vm for vm in verse_matches if vm) # first match
                 except StopIteration:
-                    bible.warn(Verse.Loc(book, chap_num, -1), "Cannot find verses",
+                    bible.warn(Verse.Loc(fix_book_name(book), chap_num, -1), "Cannot find verses",
                             warn.cannot_find_verse)
                     continue
                 try:
                     verse_num = int(verse_match.group(1))
                 except (AttributeError, ValueError):
-                    bible.warn(Verse.Loc(book, chap_num, -1), "Cannot find verse number",
+                    bible.warn(Verse.Loc(fix_book_name(book), chap_num, -1), "Cannot find verse number",
                             warn.cannot_find_verse_num)
                     continue
                 
@@ -107,13 +108,13 @@ def ebible_extractor(url: Url) -> Bible:
                 if verse_match.group(2):
                     # More than one verse
                     locs = [
-                            Verse.Loc(book, chap_num, v)
+                            Verse.Loc(fix_book_name(book), chap_num, v)
                             for v in range(verse_num, int(verse_match.group(2)[1:])+1)
                             ]
                     bible.warn(locs, "Found bible range. Merging into the first verse.",
                             warn.verse_range)
                 
-                bible += Verse(Verse.Loc(book, chap_num, verse_num, Testament.old), verse)
+                bible += Verse(Verse.Loc(fix_book_name(book), chap_num, verse_num, Testament.old), verse)
     return bible
 
 

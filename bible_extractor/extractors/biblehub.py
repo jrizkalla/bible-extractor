@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from ..extract import extractor, Url
 from ..bible import Bible, Verse, Testament
 from ..progress import ProgressIndicator
+from ..util import fix_book_name
 from .. import warnings as warn
 
 # unfortunately, for this source, book names must be hard coded
@@ -46,7 +47,7 @@ def biblehub(url: Url) -> Bible:
                 "html5lib")
         num_chapters = len(chap_list_page.select("select[name=select2] > option"))
         if num_chapters <= 0:
-            bible.warn(Verse.Loc(book_name, -1, -1, -1),
+            bible.warn(Verse.Loc(fix_book_name(book_name), -1, -1, -1),
                     f"Number of chapters is {num_chapters}")
             
         test = Testament.new if book_name in NEW_TEST_NAMES else Testament.old
@@ -70,7 +71,7 @@ def biblehub(url: Url) -> Bible:
                     try:
                         verse_num_str = verse.find("span", class_="reftext").text
                     except AttributeError:
-                        bible.warn(Verse.Loc(book_name, chap_num, -1, test),
+                        bible.warn(Verse.Loc(fix_book_name(book_name), chap_num, -1, test),
                                 f"Unable to find verse number", 
                                 warn.cannot_find_verse_num)
                         continue
@@ -78,7 +79,7 @@ def biblehub(url: Url) -> Bible:
                     try:
                         verse_num = int(verse_num_str)
                     except ValueError:
-                        bible.warn(Verse.Loc(book_name, chap_num, -1, test),
+                        bible.warn(Verse.Loc(fix_book_name(book_name), chap_num, -1, test),
                                 f"Unable to parse verse number '{verse_num_str}'",
                                 warn.unknown_verse_num)
                         continue
@@ -88,7 +89,7 @@ def biblehub(url: Url) -> Bible:
                             and "reftext" not in e.attrs.get("class", []))
                     verse_text = "\n".join(e.text for e in verse_spans)
                     
-                    bible += Verse(Verse.Loc(book_name, chap_num, verse_num, test),
+                    bible += Verse(Verse.Loc(fix_book_name(book_name), chap_num, verse_num, test),
                             verse_text)
     return bible
     
