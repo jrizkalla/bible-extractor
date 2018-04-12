@@ -156,7 +156,7 @@ WARNING:bible_extractor.bible:Leviticus 25: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 26/27
 WARNING:bible_extractor.bible:Leviticus 26: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 27/27
-INFO:bible_extractor.extractors.drbo:[  3%] [starting]  Extracting book Numbers
+INFO:bible_extractor.extractors.drbo:[  4%] [starting]  Extracting book Numbers
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/36
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/36
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/36
@@ -203,7 +203,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 33/36
 INFO:bible_extractor.extractors.drbo:Extracting chapter 34/36
 INFO:bible_extractor.extractors.drbo:Extracting chapter 35/36
 INFO:bible_extractor.extractors.drbo:Extracting chapter 36/36
-INFO:bible_extractor.extractors.drbo:[  4%] [starting]  Extracting book Deuteronomy
+INFO:bible_extractor.extractors.drbo:[  5%] [starting]  Extracting book Deuteronomy
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/34
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/34
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/34
@@ -250,344 +250,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 32/34
 INFO:bible_extractor.extractors.drbo:Extracting chapter 33/34
 WARNING:bible_extractor.bible:Deuteronomy 33: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 34/34
-INFO:bible_extractor.extractors.drbo:[  5%] [starting]  Extracting book Josue
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/24
-WARNING:bible_extractor.bible:Josue 4: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/24
-WARNING:bible_extractor.bible:Josue 6: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/24
-WARNING:bible_extractor.bible:Josue 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/24
-WARNING:bible_extractor.bible:Josue 8: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/24
-WARNING:bible_extractor.bible:Josue 14: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/24
-WARNING:bible_extractor.bible:Josue 16: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 23/24
-INFO:bible_extractor.extractors.drbo:Extracting chapter 24/24
-INFO:bible_extractor.extractors.drbo:[  6%] [starting]  Extracting book Judges
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/21
-WARNING:bible_extractor.bible:Judges 6: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/21
-WARNING:bible_extractor.bible:Judges 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/21
-WARNING:bible_extractor.bible:Judges 8: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/21
-WARNING:bible_extractor.bible:Judges 11: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/21
-WARNING:bible_extractor.bible:Judges 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/21
-WARNING:bible_extractor.bible:Judges 13: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/21
-WARNING:bible_extractor.bible:Judges 14: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/21
-WARNING:bible_extractor.bible:Judges 15: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/21
-WARNING:bible_extractor.bible:Judges 19: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/21
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/21
-INFO:bible_extractor.extractors.drbo:[  7%] [starting]  Extracting book Ruth
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/4
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/4
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/4
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/4
-INFO:bible_extractor.extractors.drbo:[  8%] [starting]  Extracting book 1 Kings
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/22
-WARNING:bible_extractor.bible:Kings I 4: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/22
-WARNING:bible_extractor.bible:Kings I 11: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/22
-INFO:bible_extractor.extractors.drbo:[  9%] [starting]  Extracting book 2 Kings
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/25
-WARNING:bible_extractor.bible:Kings II 1: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/25
-WARNING:bible_extractor.bible:Kings II 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/25
-WARNING:bible_extractor.bible:Kings II 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/25
-WARNING:bible_extractor.bible:Kings II 8: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/25
-WARNING:bible_extractor.bible:Kings II 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/25
-WARNING:bible_extractor.bible:Kings II 13: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/25
-WARNING:bible_extractor.bible:Kings II 16: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/25
-WARNING:bible_extractor.bible:Kings II 22: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 23/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 24/25
-WARNING:bible_extractor.bible:Kings II 24: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 25/25
-WARNING:bible_extractor.bible:Kings II 25: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 10%] [starting]  Extracting book 3 Kings
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/22
-WARNING:bible_extractor.bible:Kings III 4: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/22
-WARNING:bible_extractor.bible:Kings III 11: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/22
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/22
-INFO:bible_extractor.extractors.drbo:[ 11%] [starting]  Extracting book 4 Kings
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/25
-WARNING:bible_extractor.bible:Kings IV 1: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/25
-WARNING:bible_extractor.bible:Kings IV 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/25
-WARNING:bible_extractor.bible:Kings IV 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/25
-WARNING:bible_extractor.bible:Kings IV 8: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/25
-WARNING:bible_extractor.bible:Kings IV 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/25
-WARNING:bible_extractor.bible:Kings IV 13: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/25
-WARNING:bible_extractor.bible:Kings IV 16: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/25
-WARNING:bible_extractor.bible:Kings IV 22: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 23/25
-INFO:bible_extractor.extractors.drbo:Extracting chapter 24/25
-WARNING:bible_extractor.bible:Kings IV 24: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 25/25
-WARNING:bible_extractor.bible:Kings IV 25: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 12%] [starting]  Extracting book 1 Paralipomenon
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/29
-WARNING:bible_extractor.bible:Paralipomenon I 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/29
-WARNING:bible_extractor.bible:Paralipomenon I 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/29
-WARNING:bible_extractor.bible:Paralipomenon I 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/29
-WARNING:bible_extractor.bible:Paralipomenon I 8: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/29
-WARNING:bible_extractor.bible:Paralipomenon I 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/29
-WARNING:bible_extractor.bible:Paralipomenon I 19: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/29
-WARNING:bible_extractor.bible:Paralipomenon I 21: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 23/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 24/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 25/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 26/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 27/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 28/29
-INFO:bible_extractor.extractors.drbo:Extracting chapter 29/29
-WARNING:bible_extractor.bible:Paralipomenon I 29: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 13%] [starting]  Extracting book 2 Paralipomenon
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/36
-WARNING:bible_extractor.bible:Paralipomenon II 14: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/36
-WARNING:bible_extractor.bible:Paralipomenon II 21: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 23/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 24/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 25/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 26/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 27/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 28/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 29/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 30/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 31/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 32/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 33/36
-WARNING:bible_extractor.bible:Paralipomenon II 33: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 34/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 35/36
-INFO:bible_extractor.extractors.drbo:Extracting chapter 36/36
-INFO:bible_extractor.extractors.drbo:[ 14%] [starting]  Extracting book 1 Esdras
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/10
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/10
-WARNING:bible_extractor.bible:Esdras I 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/10
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/10
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/10
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/10
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/10
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/10
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/10
-WARNING:bible_extractor.bible:Esdras I 9: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/10
-INFO:bible_extractor.extractors.drbo:[ 15%] [starting]  Extracting book 2 Esdras
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/13
-WARNING:bible_extractor.bible:Esdras II 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/13
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/13
-WARNING:bible_extractor.bible:Esdras II 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/13
-INFO:bible_extractor.extractors.drbo:[ 17%] [starting]  Extracting book Tobias
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/14
-WARNING:bible_extractor.bible:Tobias 1: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/14
-WARNING:bible_extractor.bible:Tobias 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/14
-WARNING:bible_extractor.bible:Tobias 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/14
-INFO:bible_extractor.extractors.drbo:[ 18%] [starting]  Extracting book Judith
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/16
-WARNING:bible_extractor.bible:Judith 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/16
-WARNING:bible_extractor.bible:Judith 6: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/16
-WARNING:bible_extractor.bible:Judith 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/16
-WARNING:bible_extractor.bible:Judith 10: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/16
-WARNING:bible_extractor.bible:Judith 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/16
-WARNING:bible_extractor.bible:Judith 15: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/16
-INFO:bible_extractor.extractors.drbo:[ 19%] [starting]  Extracting book Joshua
+INFO:bible_extractor.extractors.drbo:[  6%] [starting]  Extracting book Joshua
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/24
@@ -618,7 +281,43 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 21/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 22/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 23/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 24/24
-INFO:bible_extractor.extractors.drbo:[ 20%] [starting]  Extracting book 1 Samuel
+INFO:bible_extractor.extractors.drbo:[  8%] [starting]  Extracting book Judges
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 6/21
+WARNING:bible_extractor.bible:Judges 6: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 7/21
+WARNING:bible_extractor.bible:Judges 7: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 8/21
+WARNING:bible_extractor.bible:Judges 8: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 9/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 10/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 11/21
+WARNING:bible_extractor.bible:Judges 11: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 12/21
+WARNING:bible_extractor.bible:Judges 12: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 13/21
+WARNING:bible_extractor.bible:Judges 13: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 14/21
+WARNING:bible_extractor.bible:Judges 14: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 15/21
+WARNING:bible_extractor.bible:Judges 15: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 16/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 17/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 18/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 19/21
+WARNING:bible_extractor.bible:Judges 19: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 20/21
+INFO:bible_extractor.extractors.drbo:Extracting chapter 21/21
+INFO:bible_extractor.extractors.drbo:[  9%] [starting]  Extracting book Ruth
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/4
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/4
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/4
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/4
+INFO:bible_extractor.extractors.drbo:[ 10%] [starting]  Extracting book Samuel I
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/31
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/31
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/31
@@ -659,7 +358,7 @@ WARNING:bible_extractor.bible:Samuel I 28: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 29/31
 INFO:bible_extractor.extractors.drbo:Extracting chapter 30/31
 INFO:bible_extractor.extractors.drbo:Extracting chapter 31/31
-INFO:bible_extractor.extractors.drbo:[ 21%] [starting]  Extracting book 2 Samuel
+INFO:bible_extractor.extractors.drbo:[ 12%] [starting]  Extracting book Samuel II
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/24
@@ -689,7 +388,68 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 22/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 23/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 24/24
 WARNING:bible_extractor.bible:Samuel II 24: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 22%] [starting]  Extracting book 1 Chronicles
+INFO:bible_extractor.extractors.drbo:[ 13%] [starting]  Extracting book Kings I
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/22
+WARNING:bible_extractor.bible:Samuel I 4: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 6/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 7/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 8/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 9/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 10/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 11/22
+WARNING:bible_extractor.bible:Samuel I 11: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 12/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 13/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 14/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 15/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 16/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 17/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 18/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 19/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 20/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 21/22
+INFO:bible_extractor.extractors.drbo:Extracting chapter 22/22
+INFO:bible_extractor.extractors.drbo:[ 15%] [starting]  Extracting book Kings II
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/25
+WARNING:bible_extractor.bible:Samuel II 1: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/25
+WARNING:bible_extractor.bible:Samuel II 2: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 6/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 7/25
+WARNING:bible_extractor.bible:Samuel II 7: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 8/25
+WARNING:bible_extractor.bible:Samuel II 8: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 9/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 10/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 11/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 12/25
+WARNING:bible_extractor.bible:Samuel II 12: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 13/25
+WARNING:bible_extractor.bible:Samuel II 13: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 14/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 15/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 16/25
+WARNING:bible_extractor.bible:Samuel II 16: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 17/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 18/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 19/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 20/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 21/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 22/25
+WARNING:bible_extractor.bible:Samuel II 22: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 23/25
+INFO:bible_extractor.extractors.drbo:Extracting chapter 24/25
+WARNING:bible_extractor.bible:Samuel II 24: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 25/25
+WARNING:bible_extractor.bible:Samuel II 25: Empty paragraph
+INFO:bible_extractor.extractors.drbo:[ 16%] [starting]  Extracting book Chronicles I
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/29
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/29
 WARNING:bible_extractor.bible:Chronicles I 2: Empty paragraph
@@ -727,7 +487,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 27/29
 INFO:bible_extractor.extractors.drbo:Extracting chapter 28/29
 INFO:bible_extractor.extractors.drbo:Extracting chapter 29/29
 WARNING:bible_extractor.bible:Chronicles I 29: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 23%] [starting]  Extracting book 2 Chronicles
+INFO:bible_extractor.extractors.drbo:[ 17%] [starting]  Extracting book Chronicles II
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/36
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/36
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/36
@@ -767,7 +527,7 @@ WARNING:bible_extractor.bible:Chronicles II 33: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 34/36
 INFO:bible_extractor.extractors.drbo:Extracting chapter 35/36
 INFO:bible_extractor.extractors.drbo:Extracting chapter 36/36
-INFO:bible_extractor.extractors.drbo:[ 24%] [starting]  Extracting book Ezra
+INFO:bible_extractor.extractors.drbo:[ 19%] [starting]  Extracting book Ezra
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/10
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/10
 WARNING:bible_extractor.bible:Ezra 2: Empty paragraph
@@ -780,7 +540,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 8/10
 INFO:bible_extractor.extractors.drbo:Extracting chapter 9/10
 WARNING:bible_extractor.bible:Ezra 9: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 10/10
-INFO:bible_extractor.extractors.drbo:[ 25%] [starting]  Extracting book Nehemiah
+INFO:bible_extractor.extractors.drbo:[ 20%] [starting]  Extracting book Nehemiah
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/13
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/13
 WARNING:bible_extractor.bible:Nehemiah 2: Empty paragraph
@@ -796,7 +556,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 11/13
 INFO:bible_extractor.extractors.drbo:Extracting chapter 12/13
 WARNING:bible_extractor.bible:Nehemiah 12: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 13/13
-INFO:bible_extractor.extractors.drbo:[ 26%] [starting]  Extracting book Tobit
+INFO:bible_extractor.extractors.drbo:[ 21%] [starting]  Extracting book Tobit
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/14
 WARNING:bible_extractor.bible:Tobit 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/14
@@ -814,7 +574,30 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 11/14
 INFO:bible_extractor.extractors.drbo:Extracting chapter 12/14
 INFO:bible_extractor.extractors.drbo:Extracting chapter 13/14
 INFO:bible_extractor.extractors.drbo:Extracting chapter 14/14
-INFO:bible_extractor.extractors.drbo:[ 27%] [starting]  Extracting book Esther
+INFO:bible_extractor.extractors.drbo:[ 23%] [starting]  Extracting book Judith
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/16
+WARNING:bible_extractor.bible:Judith 3: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 6/16
+WARNING:bible_extractor.bible:Judith 6: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 7/16
+WARNING:bible_extractor.bible:Judith 7: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 8/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 9/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 10/16
+WARNING:bible_extractor.bible:Judith 10: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 11/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 12/16
+WARNING:bible_extractor.bible:Judith 12: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 13/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 14/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 15/16
+WARNING:bible_extractor.bible:Judith 15: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 16/16
+INFO:bible_extractor.extractors.drbo:[ 24%] [starting]  Extracting book Esther
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/16
@@ -833,7 +616,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 13/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 14/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 15/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 16/16
-INFO:bible_extractor.extractors.drbo:[ 28%] [starting]  Extracting book Job
+INFO:bible_extractor.extractors.drbo:[ 26%] [starting]  Extracting book Job
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/42
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/42
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/42
@@ -891,7 +674,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 40/42
 INFO:bible_extractor.extractors.drbo:Extracting chapter 41/42
 WARNING:bible_extractor.bible:Job 41: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 42/42
-INFO:bible_extractor.extractors.drbo:[ 29%] [starting]  Extracting book Psalms
+INFO:bible_extractor.extractors.drbo:[ 27%] [starting]  Extracting book Psalms
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/150
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/150
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/150
@@ -1081,7 +864,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 148/150
 INFO:bible_extractor.extractors.drbo:Extracting chapter 149/150
 INFO:bible_extractor.extractors.drbo:Extracting chapter 150/150
 WARNING:bible_extractor.bible:Psalms 150: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 30%] [starting]  Extracting book Proverbs
+INFO:bible_extractor.extractors.drbo:[ 28%] [starting]  Extracting book Proverbs
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/31
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/31
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/31
@@ -1120,7 +903,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 28/31
 INFO:bible_extractor.extractors.drbo:Extracting chapter 29/31
 INFO:bible_extractor.extractors.drbo:Extracting chapter 30/31
 INFO:bible_extractor.extractors.drbo:Extracting chapter 31/31
-INFO:bible_extractor.extractors.drbo:[ 31%] [starting]  Extracting book Ecclesiastes
+INFO:bible_extractor.extractors.drbo:[ 30%] [starting]  Extracting book Ecclesiastes
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/12
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/12
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/12
@@ -1138,7 +921,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 11/12
 WARNING:bible_extractor.bible:Ecclesiastes 11: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 12/12
 WARNING:bible_extractor.bible:Ecclesiastes 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 32%] [starting]  Extracting book Canticles
+INFO:bible_extractor.extractors.drbo:[ 31%] [starting]  Extracting book Solomon
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/8
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/8
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/8
@@ -1147,7 +930,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 5/8
 INFO:bible_extractor.extractors.drbo:Extracting chapter 6/8
 INFO:bible_extractor.extractors.drbo:Extracting chapter 7/8
 INFO:bible_extractor.extractors.drbo:Extracting chapter 8/8
-INFO:bible_extractor.extractors.drbo:[ 34%] [starting]  Extracting book Wisdom
+INFO:bible_extractor.extractors.drbo:[ 32%] [starting]  Extracting book Wisdom
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/19
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/19
 WARNING:bible_extractor.bible:Wisdom 2: Empty paragraph
@@ -1173,7 +956,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 18/19
 WARNING:bible_extractor.bible:Wisdom 18: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 19/19
 WARNING:bible_extractor.bible:Wisdom 19: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 35%] [starting]  Extracting book Ecclesiasticus
+INFO:bible_extractor.extractors.drbo:[ 34%] [starting]  Extracting book Ecclesiasticus
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/51
 WARNING:bible_extractor.bible:Ecclesiasticus 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/51
@@ -1233,424 +1016,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 49/51
 WARNING:bible_extractor.bible:Ecclesiasticus 49: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 50/51
 INFO:bible_extractor.extractors.drbo:Extracting chapter 51/51
-INFO:bible_extractor.extractors.drbo:[ 36%] [starting]  Extracting book Isaias
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/66
-WARNING:bible_extractor.bible:Isaias 5: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/66
-WARNING:bible_extractor.bible:Isaias 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/66
-WARNING:bible_extractor.bible:Isaias 15: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/66
-WARNING:bible_extractor.bible:Isaias 17: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/66
-WARNING:bible_extractor.bible:Isaias 19: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/66
-WARNING:bible_extractor.bible:Isaias 21: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/66
-WARNING:bible_extractor.bible:Isaias 22: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 23/66
-WARNING:bible_extractor.bible:Isaias 23: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 24/66
-WARNING:bible_extractor.bible:Isaias 24: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 25/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 26/66
-WARNING:bible_extractor.bible:Isaias 26: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 27/66
-WARNING:bible_extractor.bible:Isaias 27: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 28/66
-WARNING:bible_extractor.bible:Isaias 28: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 29/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 30/66
-WARNING:bible_extractor.bible:Isaias 30: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 31/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 32/66
-WARNING:bible_extractor.bible:Isaias 32: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 33/66
-WARNING:bible_extractor.bible:Isaias 33: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 34/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 35/66
-WARNING:bible_extractor.bible:Isaias 35: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 36/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 37/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 38/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 39/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 40/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 41/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 42/66
-WARNING:bible_extractor.bible:Isaias 42: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 43/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 44/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 45/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 46/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 47/66
-WARNING:bible_extractor.bible:Isaias 47: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 48/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 49/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 50/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 51/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 52/66
-WARNING:bible_extractor.bible:Isaias 52: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 53/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 54/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 55/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 56/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 57/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 58/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 59/66
-WARNING:bible_extractor.bible:Isaias 59: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 60/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 61/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 62/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 63/66
-WARNING:bible_extractor.bible:Isaias 63: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 64/66
-INFO:bible_extractor.extractors.drbo:Extracting chapter 65/66
-WARNING:bible_extractor.bible:Isaias 65: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 66/66
-INFO:bible_extractor.extractors.drbo:[ 37%] [starting]  Extracting book Jeremias
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/52
-WARNING:bible_extractor.bible:Jeremias 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/52
-WARNING:bible_extractor.bible:Jeremias 6: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/52
-WARNING:bible_extractor.bible:Jeremias 10: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/52
-WARNING:bible_extractor.bible:Jeremias 19: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/52
-WARNING:bible_extractor.bible:Jeremias 21: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/52
-WARNING:bible_extractor.bible:Jeremias 22: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 23/52
-WARNING:bible_extractor.bible:Jeremias 23: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 24/52
-WARNING:bible_extractor.bible:Jeremias 24: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 25/52
-WARNING:bible_extractor.bible:Jeremias 25: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 26/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 27/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 28/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 29/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 30/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 31/52
-WARNING:bible_extractor.bible:Jeremias 31: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 32/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 33/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 34/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 35/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 36/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 37/52
-WARNING:bible_extractor.bible:Jeremias 37: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 38/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 39/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 40/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 41/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 42/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 43/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 44/52
-WARNING:bible_extractor.bible:Jeremias 44: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 45/52
-WARNING:bible_extractor.bible:Jeremias 45: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 46/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 47/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 48/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 49/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 50/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 51/52
-INFO:bible_extractor.extractors.drbo:Extracting chapter 52/52
-INFO:bible_extractor.extractors.drbo:[ 38%] [starting]  Extracting book Lamentations
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/5
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/5
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/5
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/5
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/5
-INFO:bible_extractor.extractors.drbo:[ 39%] [starting]  Extracting book Baruch
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/6
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/6
-WARNING:bible_extractor.bible:Baruch 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/6
-WARNING:bible_extractor.bible:Baruch 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/6
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/6
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/6
-INFO:bible_extractor.extractors.drbo:[ 40%] [starting]  Extracting book Ezechiel
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/48
-WARNING:bible_extractor.bible:Ezechiel 11: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 17/48
-WARNING:bible_extractor.bible:Ezechiel 17: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 18/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 19/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 20/48
-WARNING:bible_extractor.bible:Ezechiel 20: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 21/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 22/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 23/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 24/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 25/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 26/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 27/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 28/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 29/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 30/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 31/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 32/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 33/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 34/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 35/48
-WARNING:bible_extractor.bible:Ezechiel 35: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 36/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 37/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 38/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 39/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 40/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 41/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 42/48
-WARNING:bible_extractor.bible:Ezechiel 42: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 43/48
-WARNING:bible_extractor.bible:Ezechiel 43: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 44/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 45/48
-WARNING:bible_extractor.bible:Ezechiel 45: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 46/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 47/48
-INFO:bible_extractor.extractors.drbo:Extracting chapter 48/48
-WARNING:bible_extractor.bible:Ezechiel 48: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 41%] [starting]  Extracting book Daniel
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/14
-WARNING:bible_extractor.bible:Daniel 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/14
-WARNING:bible_extractor.bible:Daniel 4: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/14
-WARNING:bible_extractor.bible:Daniel 5: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/14
-WARNING:bible_extractor.bible:Daniel 9: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/14
-WARNING:bible_extractor.bible:Daniel 10: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/14
-WARNING:bible_extractor.bible:Daniel 11: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/14
-WARNING:bible_extractor.bible:Daniel 13: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/14
-INFO:bible_extractor.extractors.drbo:[ 42%] [starting]  Extracting book Osee
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/14
-WARNING:bible_extractor.bible:Osee 1: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/14
-WARNING:bible_extractor.bible:Osee 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/14
-WARNING:bible_extractor.bible:Osee 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/14
-WARNING:bible_extractor.bible:Osee 5: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/14
-WARNING:bible_extractor.bible:Osee 10: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/14
-WARNING:bible_extractor.bible:Osee 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/14
-WARNING:bible_extractor.bible:Osee 13: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/14
-WARNING:bible_extractor.bible:Osee 14: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 43%] [starting]  Extracting book Joel
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
-WARNING:bible_extractor.bible:Joel 1: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
-INFO:bible_extractor.extractors.drbo:[ 44%] [starting]  Extracting book Amos
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/9
-WARNING:bible_extractor.bible:Amos 1: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/9
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/9
-WARNING:bible_extractor.bible:Amos 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/9
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/9
-WARNING:bible_extractor.bible:Amos 5: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/9
-WARNING:bible_extractor.bible:Amos 6: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/9
-WARNING:bible_extractor.bible:Amos 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/9
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/9
-WARNING:bible_extractor.bible:Amos 9: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 45%] [starting]  Extracting book Abdias
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/1
-INFO:bible_extractor.extractors.drbo:[ 46%] [starting]  Extracting book Jonas
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/4
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/4
-WARNING:bible_extractor.bible:Jonas 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/4
-WARNING:bible_extractor.bible:Jonas 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/4
-INFO:bible_extractor.extractors.drbo:[ 47%] [starting]  Extracting book Micheas
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/7
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/7
-WARNING:bible_extractor.bible:Micheas 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/7
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/7
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/7
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/7
-WARNING:bible_extractor.bible:Micheas 6: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/7
-WARNING:bible_extractor.bible:Micheas 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 48%] [starting]  Extracting book Nahum
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
-WARNING:bible_extractor.bible:Nahum 1: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
-WARNING:bible_extractor.bible:Nahum 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 50%] [starting]  Extracting book Habacuc
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
-WARNING:bible_extractor.bible:Habacuc 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
-WARNING:bible_extractor.bible:Habacuc 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 51%] [starting]  Extracting book Sophonias
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
-WARNING:bible_extractor.bible:Sophonias 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
-WARNING:bible_extractor.bible:Sophonias 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 52%] [starting]  Extracting book Aggeus
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/2
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/2
-WARNING:bible_extractor.bible:Aggeus 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 53%] [starting]  Extracting book Zacharias
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/14
-WARNING:bible_extractor.bible:Zacharias 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/14
-WARNING:bible_extractor.bible:Zacharias 4: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/14
-WARNING:bible_extractor.bible:Zacharias 5: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/14
-WARNING:bible_extractor.bible:Zacharias 6: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/14
-WARNING:bible_extractor.bible:Zacharias 8: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/14
-WARNING:bible_extractor.bible:Zacharias 9: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/14
-WARNING:bible_extractor.bible:Zacharias 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/14
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/14
-WARNING:bible_extractor.bible:Zacharias 14: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 54%] [starting]  Extracting book Malachias
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/4
-WARNING:bible_extractor.bible:Malachias 1: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/4
-WARNING:bible_extractor.bible:Malachias 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/4
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/4
-WARNING:bible_extractor.bible:Malachias 4: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 55%] [starting]  Extracting book 1 Machabees
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/16
-WARNING:bible_extractor.bible:Machabees I 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/16
-WARNING:bible_extractor.bible:Machabees I 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/16
-WARNING:bible_extractor.bible:Machabees I 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/16
-INFO:bible_extractor.extractors.drbo:Extracting chapter 16/16
-INFO:bible_extractor.extractors.drbo:[ 56%] [starting]  Extracting book 2 Machabees
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/15
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/15
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/15
-WARNING:bible_extractor.bible:Machabees II 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/15
-WARNING:bible_extractor.bible:Machabees II 4: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/15
-WARNING:bible_extractor.bible:Machabees II 5: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/15
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/15
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/15
-INFO:bible_extractor.extractors.drbo:Extracting chapter 9/15
-INFO:bible_extractor.extractors.drbo:Extracting chapter 10/15
-WARNING:bible_extractor.bible:Machabees II 10: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 11/15
-INFO:bible_extractor.extractors.drbo:Extracting chapter 12/15
-WARNING:bible_extractor.bible:Machabees II 12: Empty paragraph
-INFO:bible_extractor.extractors.drbo:Extracting chapter 13/15
-INFO:bible_extractor.extractors.drbo:Extracting chapter 14/15
-INFO:bible_extractor.extractors.drbo:Extracting chapter 15/15
-WARNING:bible_extractor.bible:Machabees II 15: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 57%] [starting]  Extracting book Solomon
-INFO:bible_extractor.extractors.drbo:Extracting chapter 1/8
-INFO:bible_extractor.extractors.drbo:Extracting chapter 2/8
-INFO:bible_extractor.extractors.drbo:Extracting chapter 3/8
-INFO:bible_extractor.extractors.drbo:Extracting chapter 4/8
-INFO:bible_extractor.extractors.drbo:Extracting chapter 5/8
-INFO:bible_extractor.extractors.drbo:Extracting chapter 6/8
-INFO:bible_extractor.extractors.drbo:Extracting chapter 7/8
-INFO:bible_extractor.extractors.drbo:Extracting chapter 8/8
-INFO:bible_extractor.extractors.drbo:[ 58%] [starting]  Extracting book Isaiah
+INFO:bible_extractor.extractors.drbo:[ 35%] [starting]  Extracting book Isaiah
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/66
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/66
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/66
@@ -1739,7 +1105,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 64/66
 INFO:bible_extractor.extractors.drbo:Extracting chapter 65/66
 WARNING:bible_extractor.bible:Isaiah 65: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 66/66
-INFO:bible_extractor.extractors.drbo:[ 59%] [starting]  Extracting book Jeremiah
+INFO:bible_extractor.extractors.drbo:[ 36%] [starting]  Extracting book Jeremiah
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/52
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/52
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/52
@@ -1805,7 +1171,22 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 49/52
 INFO:bible_extractor.extractors.drbo:Extracting chapter 50/52
 INFO:bible_extractor.extractors.drbo:Extracting chapter 51/52
 INFO:bible_extractor.extractors.drbo:Extracting chapter 52/52
-INFO:bible_extractor.extractors.drbo:[ 60%] [starting]  Extracting book Ezeckiel
+INFO:bible_extractor.extractors.drbo:[ 38%] [starting]  Extracting book Lamentations
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/5
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/5
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/5
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/5
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/5
+INFO:bible_extractor.extractors.drbo:[ 39%] [starting]  Extracting book Baruch
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/6
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/6
+WARNING:bible_extractor.bible:Baruch 2: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/6
+WARNING:bible_extractor.bible:Baruch 3: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/6
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/6
+INFO:bible_extractor.extractors.drbo:Extracting chapter 6/6
+INFO:bible_extractor.extractors.drbo:[ 41%] [starting]  Extracting book Ezeckiel
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/48
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/48
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/48
@@ -1862,7 +1243,29 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 46/48
 INFO:bible_extractor.extractors.drbo:Extracting chapter 47/48
 INFO:bible_extractor.extractors.drbo:Extracting chapter 48/48
 WARNING:bible_extractor.bible:Ezeckiel 48: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 61%] [starting]  Extracting book Hosea
+INFO:bible_extractor.extractors.drbo:[ 42%] [starting]  Extracting book Daniel
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/14
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/14
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/14
+WARNING:bible_extractor.bible:Daniel 3: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/14
+WARNING:bible_extractor.bible:Daniel 4: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/14
+WARNING:bible_extractor.bible:Daniel 5: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 6/14
+INFO:bible_extractor.extractors.drbo:Extracting chapter 7/14
+INFO:bible_extractor.extractors.drbo:Extracting chapter 8/14
+INFO:bible_extractor.extractors.drbo:Extracting chapter 9/14
+WARNING:bible_extractor.bible:Daniel 9: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 10/14
+WARNING:bible_extractor.bible:Daniel 10: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 11/14
+WARNING:bible_extractor.bible:Daniel 11: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 12/14
+INFO:bible_extractor.extractors.drbo:Extracting chapter 13/14
+WARNING:bible_extractor.bible:Daniel 13: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 14/14
+INFO:bible_extractor.extractors.drbo:[ 43%] [starting]  Extracting book Hosea
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/14
 WARNING:bible_extractor.bible:Hosea 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/14
@@ -1885,16 +1288,37 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 13/14
 WARNING:bible_extractor.bible:Hosea 13: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 14/14
 WARNING:bible_extractor.bible:Hosea 14: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 62%] [starting]  Extracting book Obadiah
+INFO:bible_extractor.extractors.drbo:[ 45%] [starting]  Extracting book Joel
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
+WARNING:bible_extractor.bible:Joel 1: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
+INFO:bible_extractor.extractors.drbo:[ 46%] [starting]  Extracting book Amos
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/9
+WARNING:bible_extractor.bible:Amos 1: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/9
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/9
+WARNING:bible_extractor.bible:Amos 3: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/9
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/9
+WARNING:bible_extractor.bible:Amos 5: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 6/9
+WARNING:bible_extractor.bible:Amos 6: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 7/9
+WARNING:bible_extractor.bible:Amos 7: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 8/9
+INFO:bible_extractor.extractors.drbo:Extracting chapter 9/9
+WARNING:bible_extractor.bible:Amos 9: Empty paragraph
+INFO:bible_extractor.extractors.drbo:[ 47%] [starting]  Extracting book Obadiah
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/1
-INFO:bible_extractor.extractors.drbo:[ 63%] [starting]  Extracting book Jonah
+INFO:bible_extractor.extractors.drbo:[ 49%] [starting]  Extracting book Jonah
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/4
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/4
 WARNING:bible_extractor.bible:Jonah 2: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/4
 WARNING:bible_extractor.bible:Jonah 3: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/4
-INFO:bible_extractor.extractors.drbo:[ 64%] [starting]  Extracting book Micah
+INFO:bible_extractor.extractors.drbo:[ 50%] [starting]  Extracting book Micah
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/7
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/7
 WARNING:bible_extractor.bible:Micah 2: Empty paragraph
@@ -1905,23 +1329,29 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 6/7
 WARNING:bible_extractor.bible:Micah 6: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 7/7
 WARNING:bible_extractor.bible:Micah 7: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 65%] [starting]  Extracting book Habakkuk
+INFO:bible_extractor.extractors.drbo:[ 52%] [starting]  Extracting book Nahum
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
+WARNING:bible_extractor.bible:Nahum 1: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
+WARNING:bible_extractor.bible:Nahum 3: Empty paragraph
+INFO:bible_extractor.extractors.drbo:[ 53%] [starting]  Extracting book Habakkuk
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
 WARNING:bible_extractor.bible:Habakkuk 2: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
 WARNING:bible_extractor.bible:Habakkuk 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 67%] [starting]  Extracting book Zephaniah
+INFO:bible_extractor.extractors.drbo:[ 54%] [starting]  Extracting book Zephaniah
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
 WARNING:bible_extractor.bible:Zephaniah 2: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
 WARNING:bible_extractor.bible:Zephaniah 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 68%] [starting]  Extracting book Haggai
+INFO:bible_extractor.extractors.drbo:[ 56%] [starting]  Extracting book Haggai
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/2
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/2
 WARNING:bible_extractor.bible:Haggai 2: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 69%] [starting]  Extracting book Zachariah
+INFO:bible_extractor.extractors.drbo:[ 57%] [starting]  Extracting book Zachariah
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/14
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/14
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/14
@@ -1944,7 +1374,7 @@ WARNING:bible_extractor.bible:Zachariah 12: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 13/14
 INFO:bible_extractor.extractors.drbo:Extracting chapter 14/14
 WARNING:bible_extractor.bible:Zachariah 14: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 70%] [starting]  Extracting book Malachi
+INFO:bible_extractor.extractors.drbo:[ 58%] [starting]  Extracting book Malachi
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/4
 WARNING:bible_extractor.bible:Malachi 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/4
@@ -1952,7 +1382,49 @@ WARNING:bible_extractor.bible:Malachi 2: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/4
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/4
 WARNING:bible_extractor.bible:Malachi 4: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 71%] [starting]  Extracting book Matthew
+INFO:bible_extractor.extractors.drbo:[ 60%] [starting]  Extracting book Machabees I
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/16
+WARNING:bible_extractor.bible:Machabees I 2: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/16
+WARNING:bible_extractor.bible:Machabees I 3: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 6/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 7/16
+WARNING:bible_extractor.bible:Machabees I 7: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 8/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 9/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 10/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 11/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 12/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 13/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 14/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 15/16
+INFO:bible_extractor.extractors.drbo:Extracting chapter 16/16
+INFO:bible_extractor.extractors.drbo:[ 61%] [starting]  Extracting book Machabees II
+INFO:bible_extractor.extractors.drbo:Extracting chapter 1/15
+INFO:bible_extractor.extractors.drbo:Extracting chapter 2/15
+INFO:bible_extractor.extractors.drbo:Extracting chapter 3/15
+WARNING:bible_extractor.bible:Machabees II 3: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 4/15
+WARNING:bible_extractor.bible:Machabees II 4: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 5/15
+WARNING:bible_extractor.bible:Machabees II 5: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 6/15
+INFO:bible_extractor.extractors.drbo:Extracting chapter 7/15
+INFO:bible_extractor.extractors.drbo:Extracting chapter 8/15
+INFO:bible_extractor.extractors.drbo:Extracting chapter 9/15
+INFO:bible_extractor.extractors.drbo:Extracting chapter 10/15
+WARNING:bible_extractor.bible:Machabees II 10: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 11/15
+INFO:bible_extractor.extractors.drbo:Extracting chapter 12/15
+WARNING:bible_extractor.bible:Machabees II 12: Empty paragraph
+INFO:bible_extractor.extractors.drbo:Extracting chapter 13/15
+INFO:bible_extractor.extractors.drbo:Extracting chapter 14/15
+INFO:bible_extractor.extractors.drbo:Extracting chapter 15/15
+WARNING:bible_extractor.bible:Machabees II 15: Empty paragraph
+INFO:bible_extractor.extractors.drbo:[ 63%] [starting]  Extracting book Matthew
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/28
 WARNING:bible_extractor.bible:Matthew 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/28
@@ -1990,7 +1462,7 @@ WARNING:bible_extractor.bible:Matthew 26: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 27/28
 INFO:bible_extractor.extractors.drbo:Extracting chapter 28/28
 WARNING:bible_extractor.bible:Matthew 28: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 72%] [starting]  Extracting book Mark
+INFO:bible_extractor.extractors.drbo:[ 64%] [starting]  Extracting book Mark
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/16
 WARNING:bible_extractor.bible:Mark 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/16
@@ -2011,7 +1483,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 14/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 15/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 16/16
 WARNING:bible_extractor.bible:Mark 16: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 73%] [starting]  Extracting book Luke
+INFO:bible_extractor.extractors.drbo:[ 65%] [starting]  Extracting book Luke
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/24
 WARNING:bible_extractor.bible:Luke 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/24
@@ -2040,7 +1512,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 21/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 22/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 23/24
 INFO:bible_extractor.extractors.drbo:Extracting chapter 24/24
-INFO:bible_extractor.extractors.drbo:[ 74%] [starting]  Extracting book John
+INFO:bible_extractor.extractors.drbo:[ 67%] [starting]  Extracting book John
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/21
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/21
 WARNING:bible_extractor.bible:John 2: Empty paragraph
@@ -2068,7 +1540,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 19/21
 INFO:bible_extractor.extractors.drbo:Extracting chapter 20/21
 INFO:bible_extractor.extractors.drbo:Extracting chapter 21/21
 WARNING:bible_extractor.bible:John 21: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 75%] [starting]  Extracting book Acts of Apostles
+INFO:bible_extractor.extractors.drbo:[ 68%] [starting]  Extracting book Acts of Apostles
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/28
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/28
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/28
@@ -2106,7 +1578,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 25/28
 INFO:bible_extractor.extractors.drbo:Extracting chapter 26/28
 INFO:bible_extractor.extractors.drbo:Extracting chapter 27/28
 INFO:bible_extractor.extractors.drbo:Extracting chapter 28/28
-INFO:bible_extractor.extractors.drbo:[ 76%] [starting]  Extracting book Romans
+INFO:bible_extractor.extractors.drbo:[ 69%] [starting]  Extracting book Romans
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/16
@@ -2127,7 +1599,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 14/16
 WARNING:bible_extractor.bible:Romans 14: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 15/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 16/16
-INFO:bible_extractor.extractors.drbo:[ 77%] [starting]  Extracting book 1 Corinthians
+INFO:bible_extractor.extractors.drbo:[ 71%] [starting]  Extracting book 1 Corinthians
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/16
@@ -2150,7 +1622,7 @@ WARNING:bible_extractor.bible:Corinthians I 14: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 15/16
 INFO:bible_extractor.extractors.drbo:Extracting chapter 16/16
 WARNING:bible_extractor.bible:Corinthians I 16: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 78%] [starting]  Extracting book 2 Corinthians
+INFO:bible_extractor.extractors.drbo:[ 72%] [starting]  Extracting book 2 Corinthians
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/13
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/13
 WARNING:bible_extractor.bible:Corinthians II 2: Empty paragraph
@@ -2167,7 +1639,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 10/13
 INFO:bible_extractor.extractors.drbo:Extracting chapter 11/13
 INFO:bible_extractor.extractors.drbo:Extracting chapter 12/13
 INFO:bible_extractor.extractors.drbo:Extracting chapter 13/13
-INFO:bible_extractor.extractors.drbo:[ 79%] [starting]  Extracting book Galatians
+INFO:bible_extractor.extractors.drbo:[ 73%] [starting]  Extracting book Galatians
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/6
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/6
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/6
@@ -2175,7 +1647,7 @@ WARNING:bible_extractor.bible:Galatians 3: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/6
 INFO:bible_extractor.extractors.drbo:Extracting chapter 5/6
 INFO:bible_extractor.extractors.drbo:Extracting chapter 6/6
-INFO:bible_extractor.extractors.drbo:[ 80%] [starting]  Extracting book Ephesians
+INFO:bible_extractor.extractors.drbo:[ 75%] [starting]  Extracting book Ephesians
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/6
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/6
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/6
@@ -2183,14 +1655,14 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 4/6
 INFO:bible_extractor.extractors.drbo:Extracting chapter 5/6
 INFO:bible_extractor.extractors.drbo:Extracting chapter 6/6
 WARNING:bible_extractor.bible:Ephesians 6: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 81%] [starting]  Extracting book Philippians
+INFO:bible_extractor.extractors.drbo:[ 76%] [starting]  Extracting book Philippians
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/4
 WARNING:bible_extractor.bible:Philippians 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/4
 WARNING:bible_extractor.bible:Philippians 2: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/4
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/4
-INFO:bible_extractor.extractors.drbo:[ 82%] [starting]  Extracting book Colossians
+INFO:bible_extractor.extractors.drbo:[ 78%] [starting]  Extracting book Colossians
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/4
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/4
 WARNING:bible_extractor.bible:Colossians 2: Empty paragraph
@@ -2198,7 +1670,7 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 3/4
 WARNING:bible_extractor.bible:Colossians 3: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/4
 WARNING:bible_extractor.bible:Colossians 4: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 84%] [starting]  Extracting book 1 Thessalonians
+INFO:bible_extractor.extractors.drbo:[ 79%] [starting]  Extracting book 1 Thessalonians
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/5
 WARNING:bible_extractor.bible:Thessalonians I 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/5
@@ -2206,11 +1678,11 @@ WARNING:bible_extractor.bible:Thessalonians I 2: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/5
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/5
 INFO:bible_extractor.extractors.drbo:Extracting chapter 5/5
-INFO:bible_extractor.extractors.drbo:[ 85%] [starting]  Extracting book 2 Thessalonians
+INFO:bible_extractor.extractors.drbo:[ 80%] [starting]  Extracting book 2 Thessalonians
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
-INFO:bible_extractor.extractors.drbo:[ 86%] [starting]  Extracting book 1 Timothy
+INFO:bible_extractor.extractors.drbo:[ 82%] [starting]  Extracting book 1 Timothy
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/6
 WARNING:bible_extractor.bible:Timothy I 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/6
@@ -2220,22 +1692,22 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 4/6
 INFO:bible_extractor.extractors.drbo:Extracting chapter 5/6
 WARNING:bible_extractor.bible:Timothy I 5: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 6/6
-INFO:bible_extractor.extractors.drbo:[ 87%] [starting]  Extracting book 2 Timothy
+INFO:bible_extractor.extractors.drbo:[ 83%] [starting]  Extracting book 2 Timothy
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/4
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/4
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/4
 WARNING:bible_extractor.bible:Timothy II 3: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/4
-INFO:bible_extractor.extractors.drbo:[ 88%] [starting]  Extracting book Titus
+INFO:bible_extractor.extractors.drbo:[ 84%] [starting]  Extracting book Titus
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
 WARNING:bible_extractor.bible:Titus 2: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
 WARNING:bible_extractor.bible:Titus 3: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 89%] [starting]  Extracting book Philemon
+INFO:bible_extractor.extractors.drbo:[ 86%] [starting]  Extracting book Philemon
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/1
 WARNING:bible_extractor.bible:Philemon 1: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 90%] [starting]  Extracting book Hebrews
+INFO:bible_extractor.extractors.drbo:[ 87%] [starting]  Extracting book Hebrews
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/13
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/13
 WARNING:bible_extractor.bible:Hebrews 2: Empty paragraph
@@ -2255,14 +1727,14 @@ WARNING:bible_extractor.bible:Hebrews 11: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 12/13
 INFO:bible_extractor.extractors.drbo:Extracting chapter 13/13
 WARNING:bible_extractor.bible:Hebrews 13: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 91%] [starting]  Extracting book James
+INFO:bible_extractor.extractors.drbo:[ 89%] [starting]  Extracting book James
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/5
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/5
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/5
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/5
 INFO:bible_extractor.extractors.drbo:Extracting chapter 5/5
 WARNING:bible_extractor.bible:James 5: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 92%] [starting]  Extracting book 1 Peter
+INFO:bible_extractor.extractors.drbo:[ 90%] [starting]  Extracting book 1 Peter
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/5
 WARNING:bible_extractor.bible:Peter I 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/5
@@ -2272,11 +1744,11 @@ WARNING:bible_extractor.bible:Peter I 3: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/5
 WARNING:bible_extractor.bible:Peter I 4: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 5/5
-INFO:bible_extractor.extractors.drbo:[ 93%] [starting]  Extracting book 2 Peter
+INFO:bible_extractor.extractors.drbo:[ 91%] [starting]  Extracting book 2 Peter
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/3
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/3
 INFO:bible_extractor.extractors.drbo:Extracting chapter 3/3
-INFO:bible_extractor.extractors.drbo:[ 94%] [starting]  Extracting book 1 John
+INFO:bible_extractor.extractors.drbo:[ 93%] [starting]  Extracting book 1 John
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/5
 WARNING:bible_extractor.bible:John I 1: Empty paragraph
 INFO:bible_extractor.extractors.drbo:Extracting chapter 2/5
@@ -2285,9 +1757,9 @@ INFO:bible_extractor.extractors.drbo:Extracting chapter 3/5
 INFO:bible_extractor.extractors.drbo:Extracting chapter 4/5
 INFO:bible_extractor.extractors.drbo:Extracting chapter 5/5
 WARNING:bible_extractor.bible:John I 5: Empty paragraph
-INFO:bible_extractor.extractors.drbo:[ 95%] [starting]  Extracting book 2 John
+INFO:bible_extractor.extractors.drbo:[ 94%] [starting]  Extracting book 2 John
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/1
-INFO:bible_extractor.extractors.drbo:[ 96%] [starting]  Extracting book 3 John
+INFO:bible_extractor.extractors.drbo:[ 95%] [starting]  Extracting book 3 John
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/1
 INFO:bible_extractor.extractors.drbo:[ 97%] [starting]  Extracting book Jude
 INFO:bible_extractor.extractors.drbo:Extracting chapter 1/1

@@ -32,50 +32,21 @@ LXX has 31 books not in KJ2000:
 	- (OT)  Baruch
 	- (OT)  Prayer of Azarias
 KJ2000 has 43 books not in LXX:
-	- (OT) Habakkuk
-	- (NT) Titus
-	- (NT) John
-	- (OT) Samuel I
-	- (NT) Peter II
-	- (NT) Jude
 	- (OT) Ezekiel
-	- (NT) Philippians
-	- (NT) Corinthians I
-	- (NT) Hebrews
 	- (OT) Jeremiah
-	- (NT) Mark
 	- (OT) Malachi
 	- (OT) Zephaniah
-	- (NT) Galatians
 	- (OT) Songs
-	- (NT) Peter I
 	- (OT) Nahum
 	- (OT) Jonah
-	- (NT) Ephesians
-	- (OT) Zechariah
-	- (NT) Corinthians II
-	- (NT) Matthew
-	- (NT) Timothy II
-	- (NT) James
-	- (NT) John III
-	- (NT) Revelation
-	- (NT) John II
 	- (OT) Hosea
-	- (NT) Acts
 	- (OT) Isaiah
 	- (OT) Micah
-	- (NT) Timothy I
-	- (NT) Thessalonians I
-	- (NT) John I
-	- (NT) Thessalonians II
-	- (NT) Romans
-	- (NT) Colossians
-	- (NT) Philemon
 	- (OT) Samuel II
 	- (OT) Obadiah
-	- (NT) Luke
 	- (OT) Haggai
 
+Zacharias -> Zechariah
 
 Looking at 23 books in both Bibles
 

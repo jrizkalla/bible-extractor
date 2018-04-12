@@ -27,10 +27,19 @@ def drbo(url: Url) -> Bible:
     main_page = BeautifulSoup(http.get(url).text, "html5lib")
     ot_a_elems = main_page.select("td.OT1 a.b, td.OT2 a.b")
     nt_a_elems = main_page.select("td.NT a.b")
+    # note: fix_book_name is applied to OT because the website
+    # lists both Greek and normal names so we want to make sure duplicates
+    # are removed by converting Greek to normal
     ot_links = OrderedDict(
-            ( next(s for s in elem.contents if isinstance(s, str)).strip()
+            ( fix_book_name(next(s for s in elem.contents if isinstance(s, str)))
             , elem["href"])
             for elem in ot_a_elems )
+    # note. 1 Kings -> 1 Samuel but 3 Kings -> 1 Kings.
+    # easiest way to fix this is manual override
+    ot_links["Samuel I"] = "chapter/09001.htm"
+    ot_links["Samuel II"] = "chapter/10001.htm"
+    ot_links["Kings I"] = "chapter/11001.htm"
+    ot_links["Kings II"] = "chapter/12001.htm"
     nt_links = OrderedDict( 
             ( next(s for s in elem.contents if isinstance(s, str)).strip() 
             , elem["href"])
